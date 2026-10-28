@@ -1416,7 +1416,17 @@ def register(app, **ctx):
     def _get(lid):
         for x in _load().get("licenses", []):
             if x.get("licenseId") == lid:
-                return ok(_enrich(x), details=x)
+                result = _enrich(x)
+                text_path = d / "texts" / (lid + ".txt")
+                if text_path.is_file():
+                    try:
+                        result["text"] = text_path.read_text(encoding="utf-8")
+                        result["text_status"] = "downloaded"
+                    except OSError:
+                        result["text_status"] = "unreadable"
+                else:
+                    result["text_status"] = x.get("text_status", "not_available")
+                return ok(result, details=x)
         return fail("licencia no encontrada", 404)
 
     @app.get("/api/licenses/index")
