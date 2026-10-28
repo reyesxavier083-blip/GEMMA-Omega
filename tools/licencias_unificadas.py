@@ -16,7 +16,9 @@ import pathlib
 import sys
 import urllib.request
 
+# == SPDX DATA START ==
 DATA = {"source": "pending", "licenses": {}, "texts": {}}
+# == SPDX DATA END ==
 START = "# == SPDX DATA START =="
 END = "# == SPDX DATA END =="
 
@@ -77,6 +79,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# == SPDX DATA START ==
-# == SPDX DATA END ==
