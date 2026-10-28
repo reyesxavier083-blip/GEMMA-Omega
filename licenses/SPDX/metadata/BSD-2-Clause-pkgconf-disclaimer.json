@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-2-Clause-pkgconf-disclaimer.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-pkgconf-disclaimer.json",
+  "referenceNumber": 179,
+  "name": "BSD 2-Clause pkgconf disclaimer variant",
+  "licenseId": "BSD-2-Clause-pkgconf-disclaimer",
+  "seeAlso": [
+    "https://github.com/audacious-media-player/audacious/blob/master/src/audacious/main.cc",
+    "https://github.com/audacious-media-player/audacious/blob/master/COPYING"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-pkgconf-disclaimer.txt"
+}

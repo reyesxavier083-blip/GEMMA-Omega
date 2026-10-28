@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/MIT.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/MIT.json",
+  "referenceNumber": 294,
+  "name": "MIT License",
+  "licenseId": "MIT",
+  "seeAlso": [
+    "https://opensource.org/license/MIT",
+    "https://gitlab.freedesktop.org/xorg/xserver/-/blob/dd5c2595a42d3ff0c4f18d9b53d1f6c3fd934fd4/COPYING#L365-389"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt"
+}

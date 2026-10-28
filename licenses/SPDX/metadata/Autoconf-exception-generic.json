@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/Autoconf-exception-generic.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Autoconf-exception-generic.json",
+  "referenceNumber": 19,
+  "name": "Autoconf generic exception",
+  "licenseExceptionId": "Autoconf-exception-generic",
+  "seeAlso": [
+    "https://launchpad.net/ubuntu/precise/+source/xmltooling/+copyright",
+    "https://tracker.debian.org/media/packages/s/sipwitch/copyright-1.9.15-3",
+    "https://opensource.apple.com/source/launchd/launchd-258.1/launchd/compile.auto.html",
+    "https://git.savannah.gnu.org/gitweb/?p=gnulib.git;a=blob;f=gnulib-tool;h=029a8cf377ad8d8f2d9e54061bf2f20496ad2eef;hb=73c74ba0197e6566da6882c87b1adee63e24d75c#l407"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Autoconf-exception-generic.txt"
+}

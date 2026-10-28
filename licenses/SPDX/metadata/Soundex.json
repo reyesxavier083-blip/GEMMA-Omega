@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Soundex.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Soundex.json",
+  "referenceNumber": 603,
+  "name": "Soundex License",
+  "licenseId": "Soundex",
+  "seeAlso": [
+    "https://metacpan.org/release/RJBS/Text-Soundex-3.05/source/Soundex.pm#L3-11"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Soundex.txt"
+}

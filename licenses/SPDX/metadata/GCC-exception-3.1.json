@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/GCC-exception-3.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GCC-exception-3.1.json",
+  "referenceNumber": 23,
+  "name": "GCC Runtime Library exception 3.1",
+  "licenseExceptionId": "GCC-exception-3.1",
+  "seeAlso": [
+    "http://www.gnu.org/licenses/gcc-exception-3.1.html"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GCC-exception-3.1.txt"
+}

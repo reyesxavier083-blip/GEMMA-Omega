@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/AdaCore-doc.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/AdaCore-doc.json",
+  "referenceNumber": 79,
+  "name": "AdaCore Doc License",
+  "licenseId": "AdaCore-doc",
+  "seeAlso": [
+    "https://github.com/AdaCore/xmlada/blob/master/docs/index.rst",
+    "https://github.com/AdaCore/gnatcoll-core/blob/master/docs/index.rst",
+    "https://github.com/AdaCore/gnatcoll-db/blob/master/docs/index.rst"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/AdaCore-doc.txt"
+}

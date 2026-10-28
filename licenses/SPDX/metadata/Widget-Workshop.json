@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Widget-Workshop.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Widget-Workshop.json",
+  "referenceNumber": 622,
+  "name": "Widget Workshop License",
+  "licenseId": "Widget-Workshop",
+  "seeAlso": [
+    "https://github.com/novnc/noVNC/blob/master/core/crypto/des.js#L24"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Widget-Workshop.txt"
+}

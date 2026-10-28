@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Gmsh-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Gmsh-exception.json",
+  "referenceNumber": 10,
+  "name": "Gmsh exception",
+  "licenseExceptionId": "Gmsh-exception",
+  "seeAlso": [
+    "https://gitlab.onelab.info/gmsh/gmsh/-/raw/master/LICENSE.txt"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Gmsh-exception.txt"
+}

@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/x11vnc-openssl-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/x11vnc-openssl-exception.json",
+  "referenceNumber": 13,
+  "name": "x11vnc OpenSSL Exception",
+  "licenseExceptionId": "x11vnc-openssl-exception",
+  "seeAlso": [
+    "https://github.com/LibVNC/x11vnc/blob/master/src/8to24.c#L22"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/x11vnc-openssl-exception.txt"
+}

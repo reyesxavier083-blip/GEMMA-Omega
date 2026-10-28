@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/SMPPL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SMPPL.json",
+  "referenceNumber": 267,
+  "name": "Secure Messaging Protocol Public License",
+  "licenseId": "SMPPL",
+  "seeAlso": [
+    "https://github.com/dcblake/SMP/blob/master/Documentation/License.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SMPPL.txt"
+}

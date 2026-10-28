@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-3-Clause-acpica.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-acpica.json",
+  "referenceNumber": 381,
+  "name": "BSD 3-Clause acpica variant",
+  "licenseId": "BSD-3-Clause-acpica",
+  "seeAlso": [
+    "https://github.com/acpica/acpica/blob/master/source/common/acfileio.c#L119"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-acpica.txt"
+}

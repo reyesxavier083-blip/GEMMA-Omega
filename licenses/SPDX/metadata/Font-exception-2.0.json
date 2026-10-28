@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Font-exception-2.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Font-exception-2.0.json",
+  "referenceNumber": 1,
+  "name": "Font exception 2.0",
+  "licenseExceptionId": "Font-exception-2.0",
+  "seeAlso": [
+    "http://www.gnu.org/licenses/gpl-faq.html#FontException"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Font-exception-2.0.txt"
+}

@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/FDK-AAC.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/FDK-AAC.json",
+  "referenceNumber": 236,
+  "name": "Fraunhofer FDK AAC Codec Library",
+  "licenseId": "FDK-AAC",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/FDK-AAC",
+    "https://directory.fsf.org/wiki/License:Fdk"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/FDK-AAC.txt"
+}

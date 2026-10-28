@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Google-Patent-WebM.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Google-Patent-WebM.json",
+  "referenceNumber": 66,
+  "name": "Google Additional IP Rights Grant (Patents) - WebM",
+  "licenseExceptionId": "Google-Patent-WebM",
+  "seeAlso": [
+    "https://www.webmproject.org/license/additional/"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Google-Patent-WebM.txt"
+}

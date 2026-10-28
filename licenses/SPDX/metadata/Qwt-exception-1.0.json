@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Qwt-exception-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Qwt-exception-1.0.json",
+  "referenceNumber": 80,
+  "name": "Qwt exception 1.0",
+  "licenseExceptionId": "Qwt-exception-1.0",
+  "seeAlso": [
+    "http://qwt.sourceforge.net/qwtlicense.html"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Qwt-exception-1.0.txt"
+}

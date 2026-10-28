@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/eCos-2.0.html",
+  "isDeprecatedLicenseId": true,
+  "detailsUrl": "https://spdx.org/licenses/eCos-2.0.json",
+  "referenceNumber": 461,
+  "name": "eCos license version 2.0",
+  "licenseId": "eCos-2.0",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/ecos-license.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/eCos-2.0.json"
+}

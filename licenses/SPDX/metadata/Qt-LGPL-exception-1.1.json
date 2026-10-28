@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Qt-LGPL-exception-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Qt-LGPL-exception-1.1.json",
+  "referenceNumber": 33,
+  "name": "Qt LGPL exception 1.1",
+  "licenseExceptionId": "Qt-LGPL-exception-1.1",
+  "seeAlso": [
+    "http://code.qt.io/cgit/qt/qtbase.git/tree/LGPL_EXCEPTION.txt"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Qt-LGPL-exception-1.1.txt"
+}

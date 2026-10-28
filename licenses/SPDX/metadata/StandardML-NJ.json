@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/StandardML-NJ.html",
+  "isDeprecatedLicenseId": true,
+  "detailsUrl": "https://spdx.org/licenses/StandardML-NJ.json",
+  "referenceNumber": 723,
+  "name": "Standard ML of New Jersey License",
+  "licenseId": "StandardML-NJ",
+  "seeAlso": [
+    "https://www.smlnj.org/license.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/StandardML-NJ.json"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-Attribution-HPND-disclaimer.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-Attribution-HPND-disclaimer.json",
+  "referenceNumber": 513,
+  "name": "BSD with Attribution and HPND disclaimer",
+  "licenseId": "BSD-Attribution-HPND-disclaimer",
+  "seeAlso": [
+    "https://github.com/cyrusimap/cyrus-sasl/blob/master/COPYING"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Attribution-HPND-disclaimer.txt"
+}

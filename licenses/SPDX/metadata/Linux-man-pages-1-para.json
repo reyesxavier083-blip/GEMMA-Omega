@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Linux-man-pages-1-para.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Linux-man-pages-1-para.json",
+  "referenceNumber": 117,
+  "name": "Linux man-pages - 1 paragraph",
+  "licenseId": "Linux-man-pages-1-para",
+  "seeAlso": [
+    "https://git.kernel.org/pub/scm/docs/man-pages/man-pages.git/tree/man2/getcpu.2#n4"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-man-pages-1-para.txt"
+}

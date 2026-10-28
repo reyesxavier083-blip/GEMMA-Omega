@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/SCEA.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SCEA.json",
+  "referenceNumber": 246,
+  "name": "SCEA Shared Source License",
+  "licenseId": "SCEA",
+  "seeAlso": [
+    "http://research.scea.com/scea_shared_source_license.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SCEA.txt"
+}

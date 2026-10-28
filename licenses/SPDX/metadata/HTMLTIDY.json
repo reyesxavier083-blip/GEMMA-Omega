@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/HTMLTIDY.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/HTMLTIDY.json",
+  "referenceNumber": 165,
+  "name": "HTML Tidy License",
+  "licenseId": "HTMLTIDY",
+  "seeAlso": [
+    "https://github.com/htacg/tidy-html5/blob/next/README/LICENSE.md"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HTMLTIDY.txt"
+}

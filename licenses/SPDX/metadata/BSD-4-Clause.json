@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-4-Clause.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-4-Clause.json",
+  "referenceNumber": 383,
+  "name": "BSD 4-Clause \"Original\" or \"Old\" License",
+  "licenseId": "BSD-4-Clause",
+  "seeAlso": [
+    "http://directory.fsf.org/wiki/License:BSD_4Clause",
+    "https://github.com/jsommers/pytricia/blob/master/patricia.c#L33-L67"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-4-Clause.txt"
+}

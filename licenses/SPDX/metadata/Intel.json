@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Intel.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Intel.json",
+  "referenceNumber": 277,
+  "name": "Intel Open Source License",
+  "licenseId": "Intel",
+  "seeAlso": [
+    "https://opensource.org/license/Intel"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Intel.txt"
+}

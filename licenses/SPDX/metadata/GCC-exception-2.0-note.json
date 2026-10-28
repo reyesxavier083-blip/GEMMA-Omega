@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/GCC-exception-2.0-note.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GCC-exception-2.0-note.json",
+  "referenceNumber": 21,
+  "name": "GCC    Runtime Library exception 2.0 - note variant",
+  "licenseExceptionId": "GCC-exception-2.0-note",
+  "seeAlso": [
+    "https://sourceware.org/git/?p=glibc.git;a=blob;f=sysdeps/x86_64/start.S"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GCC-exception-2.0-note.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "reference": "https://spdx.org/licenses/cryptsetup-OpenSSL-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/cryptsetup-OpenSSL-exception.json",
+  "referenceNumber": 65,
+  "name": "cryptsetup OpenSSL exception",
+  "licenseExceptionId": "cryptsetup-OpenSSL-exception",
+  "seeAlso": [
+    "https://gitlab.com/cryptsetup/cryptsetup/-/blob/main/COPYING",
+    "https://gitlab.nic.cz/datovka/datovka/-/blob/develop/COPYING",
+    "https://github.com/nbs-system/naxsi/blob/951123ad456bdf5ac94e8d8819342fe3d49bc002/naxsi_src/naxsi_raw.c",
+    "http://web.mit.edu/jgross/arch/amd64_deb60/bin/mosh",
+    "https://sourceforge.net/p/linux-ima/ima-evm-utils/ci/master/tree/src/evmctl.c#l30",
+    "https://github.com/ocaml-omake/omake/blob/master/LICENSE.OMake#L20"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/cryptsetup-OpenSSL-exception.txt"
+}

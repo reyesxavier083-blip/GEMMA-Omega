@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BUSL-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BUSL-1.1.json",
+  "referenceNumber": 28,
+  "name": "Business Source License 1.1",
+  "licenseId": "BUSL-1.1",
+  "seeAlso": [
+    "https://mariadb.com/bsl11/"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BUSL-1.1.txt"
+}

@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/LZMA-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/LZMA-exception.json",
+  "referenceNumber": 42,
+  "name": "LZMA exception",
+  "licenseExceptionId": "LZMA-exception",
+  "seeAlso": [
+    "http://nsis.sourceforge.net/Docs/AppendixI.html#I.6"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LZMA-exception.txt"
+}

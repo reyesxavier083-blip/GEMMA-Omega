@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-3-Clause-Tso.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-Tso.json",
+  "referenceNumber": 657,
+  "name": "BSD 3-Clause Tso variant",
+  "licenseId": "BSD-3-Clause-Tso",
+  "seeAlso": [
+    "https://www.x.org/archive/current/doc/xorg-docs/License.html#Theodore_Tso"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Tso.txt"
+}

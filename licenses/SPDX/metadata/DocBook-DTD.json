@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/DocBook-DTD.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/DocBook-DTD.json",
+  "referenceNumber": 257,
+  "name": "DocBook DTD License",
+  "licenseId": "DocBook-DTD",
+  "seeAlso": [
+    "http://www.docbook.org/xml/simple/1.1/docbook-simple-1.1.zip"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/DocBook-DTD.txt"
+}

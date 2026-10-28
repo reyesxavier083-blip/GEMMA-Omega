@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/GNOME-examples-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GNOME-examples-exception.json",
+  "referenceNumber": 43,
+  "name": "GNOME examples exception",
+  "licenseExceptionId": "GNOME-examples-exception",
+  "seeAlso": [
+    "https://gitlab.gnome.org/Archive/gnome-devel-docs/-/blob/master/platform-demos/C/legal.xml?ref_type=heads",
+    "http://meldmerge.org/help/"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GNOME-examples-exception.txt"
+}

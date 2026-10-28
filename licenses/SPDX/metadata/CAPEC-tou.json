@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CAPEC-tou.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CAPEC-tou.json",
+  "referenceNumber": 201,
+  "name": "Common Attack    Pattern Enumeration and Classification License",
+  "licenseId": "CAPEC-tou",
+  "seeAlso": [
+    "https://capec.mitre.org/about/termsofuse.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CAPEC-tou.txt"
+}

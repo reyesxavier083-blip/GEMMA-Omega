@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/PPL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/PPL.json",
+  "referenceNumber": 217,
+  "name": "Peer Production License",
+  "licenseId": "PPL",
+  "seeAlso": [
+    "https://wiki.p2pfoundation.net/Peer_Production_License",
+    "http://www.networkcultures.org/_uploads/%233notebook_telekommunist.pdf"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/PPL.txt"
+}

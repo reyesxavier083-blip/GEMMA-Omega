@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Kazlib.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Kazlib.json",
+  "referenceNumber": 340,
+  "name": "Kazlib License",
+  "licenseId": "Kazlib",
+  "seeAlso": [
+    "http://git.savannah.gnu.org/cgit/kazlib.git/tree/except.c?id=0062df360c2d17d57f6af19b0e444c51feb99036"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Kazlib.txt"
+}

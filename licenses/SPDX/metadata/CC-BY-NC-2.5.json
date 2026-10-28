@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/CC-BY-NC-2.5.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-NC-2.5.json",
+  "referenceNumber": 715,
+  "name": "Creative Commons Attribution Non Commercial 2.5 Generic",
+  "licenseId": "CC-BY-NC-2.5",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by-nc/2.5/legalcode"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-2.5.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/X11-swapped.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/X11-swapped.json",
+  "referenceNumber": 152,
+  "name": "X11 swapped final paragraphs",
+  "licenseId": "X11-swapped",
+  "seeAlso": [
+    "https://github.com/fedeinthemix/chez-srfi/blob/master/srfi/LICENSE"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/X11-swapped.txt"
+}

@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/vsftpd-openssl-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/vsftpd-openssl-exception.json",
+  "referenceNumber": 56,
+  "name": "vsftpd OpenSSL exception",
+  "licenseExceptionId": "vsftpd-openssl-exception",
+  "seeAlso": [
+    "https://git.stg.centos.org/source-git/vsftpd/blob/f727873674d9c9cd7afcae6677aa782eb54c8362/f/LICENSE",
+    "https://launchpad.net/debian/squeeze/+source/vsftpd/+copyright",
+    "https://github.com/richardcochran/vsftpd/blob/master/COPYING"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/vsftpd-openssl-exception.txt"
+}

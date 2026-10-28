@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/gSOAP-1.3b.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/gSOAP-1.3b.json",
+  "referenceNumber": 287,
+  "name": "gSOAP Public License v1.3b",
+  "licenseId": "gSOAP-1.3b",
+  "seeAlso": [
+    "http://www.cs.fsu.edu/~engelen/license.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/gSOAP-1.3b.txt"
+}

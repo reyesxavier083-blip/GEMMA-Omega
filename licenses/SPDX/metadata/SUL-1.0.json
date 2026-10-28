@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/SUL-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SUL-1.0.json",
+  "referenceNumber": 137,
+  "name": "Sustainable Use License v1.0",
+  "licenseId": "SUL-1.0",
+  "seeAlso": [
+    "https://github.com/n8n-io/n8n/blob/master/LICENSE.md"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SUL-1.0.txt"
+}

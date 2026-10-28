@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/QPL-1.0-INRIA-2004-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/QPL-1.0-INRIA-2004-exception.json",
+  "referenceNumber": 45,
+  "name": "INRIA QPL 1.0 2004 variant exception",
+  "licenseExceptionId": "QPL-1.0-INRIA-2004-exception",
+  "seeAlso": [
+    "https://git.frama-c.com/pub/frama-c/-/blob/master/licenses/Q_MODIFIED_LICENSE",
+    "https://github.com/maranget/hevea/blob/master/LICENSE"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/QPL-1.0-INRIA-2004-exception.txt"
+}

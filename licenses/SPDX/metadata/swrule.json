@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/swrule.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/swrule.json",
+  "referenceNumber": 43,
+  "name": "swrule License",
+  "licenseId": "swrule",
+  "seeAlso": [
+    "https://ctan.math.utah.edu/ctan/tex-archive/macros/generic/misc/swrule.sty"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/swrule.txt"
+}

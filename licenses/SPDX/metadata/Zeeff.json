@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Zeeff.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Zeeff.json",
+  "referenceNumber": 455,
+  "name": "Zeeff License",
+  "licenseId": "Zeeff",
+  "seeAlso": [
+    "ftp://ftp.tin.org/pub/news/utils/newsx/newsx-1.6.tar.gz"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zeeff.txt"
+}

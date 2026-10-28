@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/MPL-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/MPL-1.0.json",
+  "referenceNumber": 316,
+  "name": "Mozilla Public License 1.0",
+  "licenseId": "MPL-1.0",
+  "seeAlso": [
+    "http://www.mozilla.org/MPL/MPL-1.0.html",
+    "https://opensource.org/license/MPL-1.0"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPL-1.0.txt"
+}

@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/OpenMDW-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/OpenMDW-1.0.json",
+  "referenceNumber": 119,
+  "name": "OpenMDW License Agreement v1.0",
+  "licenseId": "OpenMDW-1.0",
+  "seeAlso": [
+    "https://raw.githubusercontent.com/OpenMDW/OpenMDW/refs/heads/main/1.0/LICENSE.openmdw",
+    "https://openmdw.ai/license/"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenMDW-1.0.txt"
+}

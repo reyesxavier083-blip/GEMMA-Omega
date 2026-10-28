@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Xnet.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Xnet.json",
+  "referenceNumber": 392,
+  "name": "X.Net License",
+  "licenseId": "Xnet",
+  "seeAlso": [
+    "https://opensource.org/license/Xnet"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Xnet.txt"
+}

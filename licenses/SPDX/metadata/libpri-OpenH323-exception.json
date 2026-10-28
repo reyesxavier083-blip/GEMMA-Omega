@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/libpri-OpenH323-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/libpri-OpenH323-exception.json",
+  "referenceNumber": 30,
+  "name": "libpri OpenH323 exception",
+  "licenseExceptionId": "libpri-OpenH323-exception",
+  "seeAlso": [
+    "https://github.com/asterisk/libpri/blob/1.6.0/README#L19-L22"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/libpri-OpenH323-exception.txt"
+}

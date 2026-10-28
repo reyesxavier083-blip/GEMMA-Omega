@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Artistic-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Artistic-1.0.json",
+  "referenceNumber": 590,
+  "name": "Artistic License 1.0",
+  "licenseId": "Artistic-1.0",
+  "seeAlso": [
+    "https://opensource.org/license/Artistic-1.0"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-1.0.txt"
+}

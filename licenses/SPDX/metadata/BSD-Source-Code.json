@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-Source-Code.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-Source-Code.json",
+  "referenceNumber": 629,
+  "name": "BSD Source Code Attribution",
+  "licenseId": "BSD-Source-Code",
+  "seeAlso": [
+    "https://github.com/robbiehanson/CocoaHTTPServer/blob/master/LICENSE.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Source-Code.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/JPL-image.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/JPL-image.json",
+  "referenceNumber": 323,
+  "name": "JPL Image Use Policy",
+  "licenseId": "JPL-image",
+  "seeAlso": [
+    "https://www.jpl.nasa.gov/jpl-image-use-policy"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/JPL-image.txt"
+}

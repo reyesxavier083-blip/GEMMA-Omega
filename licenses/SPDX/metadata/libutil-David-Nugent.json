@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/libutil-David-Nugent.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/libutil-David-Nugent.json",
+  "referenceNumber": 623,
+  "name": "libutil David Nugent License",
+  "licenseId": "libutil-David-Nugent",
+  "seeAlso": [
+    "http://web.mit.edu/freebsd/head/lib/libutil/login_ok.3",
+    "https://cgit.freedesktop.org/libbsd/tree/man/setproctitle.3bsd"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/libutil-David-Nugent.txt"
+}

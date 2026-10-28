@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/LLGPL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/LLGPL.json",
+  "referenceNumber": 32,
+  "name": "LLGPL Preamble",
+  "licenseExceptionId": "LLGPL",
+  "seeAlso": [
+    "http://opensource.franz.com/preamble.html"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LLGPL.txt"
+}

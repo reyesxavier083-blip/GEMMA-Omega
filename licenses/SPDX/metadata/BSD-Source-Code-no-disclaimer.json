@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-Source-Code-no-disclaimer.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-Source-Code-no-disclaimer.json",
+  "referenceNumber": 589,
+  "name": "BSD Source Code Attribution - no disclaimer",
+  "licenseId": "BSD-Source-Code-no-disclaimer",
+  "seeAlso": [
+    "https://github.com/PicoEFI/PicoEFI/blob/2263ac1a2bc98e5534d64a4896d3cfbbae00745a/LICENSES/LicenseRef-scancode-bsd-no-disclaimer-unmodified.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Source-Code-no-disclaimer.txt"
+}

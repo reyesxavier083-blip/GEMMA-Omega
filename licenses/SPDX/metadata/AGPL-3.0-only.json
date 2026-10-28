@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/AGPL-3.0-only.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/AGPL-3.0-only.json",
+  "referenceNumber": 329,
+  "name": "GNU Affero General Public License v3.0 only",
+  "licenseId": "AGPL-3.0-only",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/agpl.txt",
+    "https://opensource.org/license/AGPL-3.0-only"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/AGPL-3.0-only.txt"
+}

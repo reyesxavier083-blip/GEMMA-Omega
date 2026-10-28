@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/LPPL-1.3c.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/LPPL-1.3c.json",
+  "referenceNumber": 223,
+  "name": "LaTeX Project Public License v1.3c",
+  "licenseId": "LPPL-1.3c",
+  "seeAlso": [
+    "http://www.latex-project.org/lppl/LPPL-1.3c.txt",
+    "https://opensource.org/license/LPPL-1.3c"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPPL-1.3c.txt"
+}

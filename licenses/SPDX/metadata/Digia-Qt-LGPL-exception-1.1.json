@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Digia-Qt-LGPL-exception-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Digia-Qt-LGPL-exception-1.1.json",
+  "referenceNumber": 6,
+  "name": "Digia Qt LGPL Exception version 1.1",
+  "licenseExceptionId": "Digia-Qt-LGPL-exception-1.1",
+  "seeAlso": [
+    "https://src.fedoraproject.org/rpms/qtlockedfile/blob/rawhide/f/LGPL_EXCEPTION"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Digia-Qt-LGPL-exception-1.1.txt"
+}

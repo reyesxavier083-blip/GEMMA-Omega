@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/0BSD.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/0BSD.json",
+  "referenceNumber": 695,
+  "name": "BSD Zero Clause License",
+  "licenseId": "0BSD",
+  "seeAlso": [
+    "http://landley.net/toybox/license.html",
+    "https://opensource.org/license/0BSD"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/0BSD.txt"
+}

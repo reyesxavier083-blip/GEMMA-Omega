@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/gnuplot.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/gnuplot.json",
+  "referenceNumber": 19,
+  "name": "gnuplot License",
+  "licenseId": "gnuplot",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Gnuplot"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/gnuplot.txt"
+}

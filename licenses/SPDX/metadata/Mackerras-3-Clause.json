@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Mackerras-3-Clause.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Mackerras-3-Clause.json",
+  "referenceNumber": 210,
+  "name": "Mackerras 3-Clause License",
+  "licenseId": "Mackerras-3-Clause",
+  "seeAlso": [
+    "https://github.com/ppp-project/ppp/blob/master/pppd/chap_ms.c#L6-L28"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Mackerras-3-Clause.txt"
+}

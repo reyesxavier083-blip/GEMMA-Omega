@@ -1,0 +1,827 @@
+id,type,name,status,source
+389-exception,exception,389 Directory Server Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/389-exception.txt
+Asterisk-exception,exception,Asterisk exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Asterisk-exception.txt
+Asterisk-linking-protocols-exception,exception,Asterisk linking protocols exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Asterisk-linking-protocols-exception.txt
+Autoconf-exception-2.0,exception,Autoconf exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Autoconf-exception-2.0.txt
+Autoconf-exception-3.0,exception,Autoconf exception 3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Autoconf-exception-3.0.txt
+Autoconf-exception-generic,exception,Autoconf generic exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Autoconf-exception-generic.txt
+Autoconf-exception-generic-3.0,exception,Autoconf generic exception for GPL-3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Autoconf-exception-generic-3.0.txt
+Autoconf-exception-macro,exception,Autoconf macro exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Autoconf-exception-macro.txt
+Bison-exception-1.24,exception,Bison exception 1.24,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bison-exception-1.24.txt
+Bison-exception-2.2,exception,Bison exception 2.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bison-exception-2.2.txt
+Bootloader-exception,exception,Bootloader Distribution Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bootloader-exception.txt
+CGAL-linking-exception,exception,CGAL Linking Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CGAL-linking-exception.txt
+Classpath-exception-2.0,exception,Classpath exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Classpath-exception-2.0.txt
+Classpath-exception-2.0-short,exception,Classpath exception 2.0 - short,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Classpath-exception-2.0-short.txt
+CLISP-exception-2.0,exception,CLISP exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CLISP-exception-2.0.txt
+cryptsetup-OpenSSL-exception,exception,cryptsetup OpenSSL exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/cryptsetup-OpenSSL-exception.txt
+Digia-Qt-LGPL-exception-1.1,exception,Digia Qt LGPL Exception version 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Digia-Qt-LGPL-exception-1.1.txt
+DigiRule-FOSS-exception,exception,DigiRule FOSS License Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DigiRule-FOSS-exception.txt
+eCos-exception-2.0,exception,eCos exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/eCos-exception-2.0.txt
+erlang-otp-linking-exception,exception,Erlang/OTP Linking Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/erlang-otp-linking-exception.txt
+Fawkes-Runtime-exception,exception,Fawkes Runtime Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Fawkes-Runtime-exception.txt
+FLTK-exception,exception,FLTK exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FLTK-exception.txt
+fmt-exception,exception,fmt exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/fmt-exception.txt
+Font-exception-2.0,exception,Font exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Font-exception-2.0.txt
+freertos-exception-2.0,exception,FreeRTOS Exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/freertos-exception-2.0.txt
+GCC-exception-2.0,exception,GCC Runtime Library exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GCC-exception-2.0.txt
+GCC-exception-2.0-note,exception,GCC    Runtime Library exception 2.0 - note variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GCC-exception-2.0-note.txt
+GCC-exception-3.1,exception,GCC Runtime Library exception 3.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GCC-exception-3.1.txt
+Gmsh-exception,exception,Gmsh exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Gmsh-exception.txt
+GNAT-exception,exception,GNAT exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GNAT-exception.txt
+GNOME-examples-exception,exception,GNOME examples exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GNOME-examples-exception.txt
+GNU-compiler-exception,exception,GNU Compiler Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GNU-compiler-exception.txt
+gnu-javamail-exception,exception,GNU JavaMail exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/gnu-javamail-exception.txt
+Google-Patent-WebM,exception,Google Additional IP Rights Grant (Patents) - WebM,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Google-Patent-WebM.txt
+GPL-3.0-389-ds-base-exception,exception,GPL-3.0 389 DS Base Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-389-ds-base-exception.txt
+GPL-3.0-interface-exception,exception,GPL-3.0 Interface Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-interface-exception.txt
+GPL-3.0-linking-exception,exception,GPL-3.0 Linking Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-linking-exception.txt
+GPL-3.0-linking-source-exception,exception,GPL-3.0 Linking Exception (with Corresponding Source),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-linking-source-exception.txt
+GPL-CC-1.0,exception,GPL Cooperation Commitment 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-CC-1.0.txt
+GStreamer-exception-2005,exception,GStreamer Exception (2005),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GStreamer-exception-2005.txt
+GStreamer-exception-2008,exception,GStreamer Exception (2008),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GStreamer-exception-2008.txt
+harbour-exception,exception,harbour exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/harbour-exception.txt
+i2p-gpl-java-exception,exception,i2p GPL+Java Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/i2p-gpl-java-exception.txt
+Independent-modules-exception,exception,Independent Module Linking exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Independent-modules-exception.txt
+KiCad-libraries-exception,exception,KiCad Libraries Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/KiCad-libraries-exception.txt
+kvirc-openssl-exception,exception,kvirc OpenSSL Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/kvirc-openssl-exception.txt
+LGPL-3.0-linking-exception,exception,LGPL-3.0 Linking Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPL-3.0-linking-exception.txt
+libpri-OpenH323-exception,exception,libpri OpenH323 exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/libpri-OpenH323-exception.txt
+Libtool-exception,exception,Libtool Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Libtool-exception.txt
+Linux-syscall-note,exception,Linux Syscall Note,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-syscall-note.txt
+LLGPL,exception,LLGPL Preamble,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LLGPL.txt
+LLVM-exception,exception,LLVM Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LLVM-exception.txt
+LZMA-exception,exception,LZMA exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LZMA-exception.txt
+mif-exception,exception,Macros and Inline Functions Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/mif-exception.txt
+mxml-exception,exception,mxml Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/mxml-exception.txt
+Nokia-Qt-exception-1.1,exception,Nokia Qt LGPL exception 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Nokia-Qt-exception-1.1.txt
+OCaml-LGPL-linking-exception,exception,OCaml LGPL Linking Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OCaml-LGPL-linking-exception.txt
+OCCT-exception-1.0,exception,Open CASCADE Exception 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OCCT-exception-1.0.txt
+OpenJDK-assembly-exception-1.0,exception,OpenJDK Assembly exception 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenJDK-assembly-exception-1.0.txt
+openvpn-openssl-exception,exception,OpenVPN OpenSSL Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/openvpn-openssl-exception.txt
+PCRE2-exception,exception,PCRE2 exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PCRE2-exception.txt
+polyparse-exception,exception,Polyparse Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/polyparse-exception.txt
+PS-or-PDF-font-exception-20170817,exception,PS/PDF font exception (2017-08-17),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PS-or-PDF-font-exception-20170817.txt
+QPL-1.0-INRIA-2004-exception,exception,INRIA QPL 1.0 2004 variant exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/QPL-1.0-INRIA-2004-exception.txt
+Qt-GPL-exception-1.0,exception,Qt GPL exception 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Qt-GPL-exception-1.0.txt
+Qt-LGPL-exception-1.1,exception,Qt LGPL exception 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Qt-LGPL-exception-1.1.txt
+Qwt-exception-1.0,exception,Qwt exception 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Qwt-exception-1.0.txt
+romic-exception,exception,Romic Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/romic-exception.txt
+RRDtool-FLOSS-exception-2.0,exception,RRDtool FLOSS exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/RRDtool-FLOSS-exception-2.0.txt
+rsync-linking-exception,exception,rsync Linking Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/rsync-linking-exception.txt
+SANE-exception,exception,SANE Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SANE-exception.txt
+SHL-2.0,exception,Solderpad Hardware License v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SHL-2.0.txt
+SHL-2.1,exception,Solderpad Hardware License v2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SHL-2.1.txt
+Simple-Library-Usage-exception,exception,Simple Library Usage Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Simple-Library-Usage-exception.txt
+Spelling-Provider-LGPL-exception,exception,Spelling Provider LGPL exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Spelling-Provider-LGPL-exception.txt
+sqlitestudio-OpenSSL-exception,exception,sqlitestudio OpenSSL exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/sqlitestudio-OpenSSL-exception.txt
+stunnel-exception,exception,stunnel Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/stunnel-exception.txt
+SWI-exception,exception,SWI exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SWI-exception.txt
+Swift-exception,exception,Swift Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Swift-exception.txt
+Texinfo-exception,exception,Texinfo exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Texinfo-exception.txt
+u-boot-exception-2.0,exception,U-Boot exception 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/u-boot-exception-2.0.txt
+UBDL-exception,exception,Unmodified Binary Distribution exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/UBDL-exception.txt
+Universal-FOSS-exception-1.0,exception,"Universal FOSS Exception, Version 1.0",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Universal-FOSS-exception-1.0.txt
+vsftpd-openssl-exception,exception,vsftpd OpenSSL exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/vsftpd-openssl-exception.txt
+WxWindows-exception-3.1,exception,WxWindows Library Exception 3.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/WxWindows-exception-3.1.txt
+x11vnc-openssl-exception,exception,x11vnc OpenSSL Exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/x11vnc-openssl-exception.txt
+0BSD,license,BSD Zero Clause License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/0BSD.txt
+3D-Slicer-1.0,license,3D Slicer License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/3D-Slicer-1.0.txt
+AAL,license,Attribution Assurance License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AAL.txt
+Abstyles,license,Abstyles License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Abstyles.txt
+AdaCore-doc,license,AdaCore Doc License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AdaCore-doc.txt
+Adobe-2006,license,Adobe Systems Incorporated Source Code License Agreement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Adobe-2006.txt
+Adobe-Display-PostScript,license,Adobe Display PostScript License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Adobe-Display-PostScript.txt
+Adobe-Glyph,license,Adobe Glyph List License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Adobe-Glyph.txt
+Adobe-Utopia,license,Adobe Utopia Font License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Adobe-Utopia.txt
+ADSL,license,Amazon Digital Services License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ADSL.txt
+Advanced-Cryptics-Dictionary,license,Advanced Cryptics Dictionary License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Advanced-Cryptics-Dictionary.txt
+AFL-1.1,license,Academic Free License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AFL-1.1.txt
+AFL-1.2,license,Academic Free License v1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AFL-1.2.txt
+AFL-2.0,license,Academic Free License v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AFL-2.0.txt
+AFL-2.1,license,Academic Free License v2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AFL-2.1.txt
+AFL-3.0,license,Academic Free License v3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AFL-3.0.txt
+Afmparse,license,Afmparse License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Afmparse.txt
+AGPL-1.0,license,Affero General Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/AGPL-1.0.json
+AGPL-1.0-only,license,Affero General Public License v1.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AGPL-1.0-only.txt
+AGPL-1.0-or-later,license,Affero General Public License v1.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AGPL-1.0-or-later.txt
+AGPL-3.0,license,GNU Affero General Public License v3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/AGPL-3.0.json
+AGPL-3.0-only,license,GNU Affero General Public License v3.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AGPL-3.0-only.txt
+AGPL-3.0-or-later,license,GNU Affero General Public License v3.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AGPL-3.0-or-later.txt
+Aladdin,license,Aladdin Free Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Aladdin.txt
+ALGLIB-Documentation,license,ALGLIB Documentation License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ALGLIB-Documentation.txt
+AMD-newlib,license,AMD newlib License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AMD-newlib.txt
+AMDPLPA,license,AMD's plpa_map.c License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AMDPLPA.txt
+AML,license,Apple MIT License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AML.txt
+AML-glslang,license,AML glslang variant License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AML-glslang.txt
+AMPAS,license,Academy of Motion Picture Arts and Sciences BSD,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/AMPAS.txt
+ANTLR-PD,license,ANTLR Software Rights Notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ANTLR-PD.txt
+ANTLR-PD-fallback,license,ANTLR Software Rights Notice with license fallback,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ANTLR-PD-fallback.txt
+any-OSI,license,Any OSI License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/any-OSI.txt
+any-OSI-perl-modules,license,Any OSI License - Perl Modules,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/any-OSI-perl-modules.txt
+Apache-1.0,license,Apache License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Apache-1.0.txt
+Apache-1.1,license,Apache License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Apache-1.1.txt
+Apache-2.0,license,Apache License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Apache-2.0.txt
+APAFML,license,Adobe Postscript AFM License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/APAFML.txt
+APL-1.0,license,Adaptive Public License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/APL-1.0.txt
+App-s2p,license,App::s2p License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/App-s2p.txt
+APSL-1.0,license,Apple Public Source License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/APSL-1.0.txt
+APSL-1.1,license,Apple Public Source License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/APSL-1.1.txt
+APSL-1.2,license,Apple Public Source License 1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/APSL-1.2.txt
+APSL-2.0,license,Apple Public Source License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/APSL-2.0.txt
+Arphic-1999,license,Arphic Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Arphic-1999.txt
+Artistic-1.0,license,Artistic License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-1.0.txt
+Artistic-1.0-cl8,license,Artistic License 1.0 w/clause 8,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-1.0-cl8.txt
+Artistic-1.0-Perl,license,Artistic License 1.0 (Perl),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-1.0-Perl.txt
+Artistic-2.0,license,Artistic License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-2.0.txt
+Artistic-dist,license,Artistic License 1.0 (dist),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-dist.txt
+Aspell-RU,license,Aspell Russian License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Aspell-RU.txt
+ASWF-Digital-Assets-1.0,license,ASWF Digital Assets License version 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ASWF-Digital-Assets-1.0.txt
+ASWF-Digital-Assets-1.1,license,ASWF Digital Assets License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ASWF-Digital-Assets-1.1.txt
+atc-game,license,atc Game License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/atc-game.txt
+Baekmuk,license,Baekmuk License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Baekmuk.txt
+Bahyph,license,Bahyph License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bahyph.txt
+Barr,license,Barr License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Barr.txt
+bcrypt-Solar-Designer,license,bcrypt Solar Designer License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/bcrypt-Solar-Designer.txt
+Beerware,license,Beerware License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Beerware.txt
+Bitstream-Charter,license,Bitstream Charter Font License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bitstream-Charter.txt
+Bitstream-Vera,license,Bitstream Vera Font License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bitstream-Vera.txt
+BitTorrent-1.0,license,BitTorrent Open Source License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BitTorrent-1.0.txt
+BitTorrent-1.1,license,BitTorrent Open Source License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BitTorrent-1.1.txt
+blessing,license,SQLite Blessing,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/blessing.txt
+BlueOak-1.0.0,license,Blue Oak Model License 1.0.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BlueOak-1.0.0.txt
+Boehm-GC,license,Boehm-Demers-Weiser GC License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Boehm-GC.txt
+Boehm-GC-without-fee,license,Boehm-Demers-Weiser GC License (without fee),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Boehm-GC-without-fee.txt
+BOLA-1.1,license,Buena Onda License Agreement v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BOLA-1.1.txt
+Borceux,license,Borceux license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Borceux.txt
+Brian-Gladman-2-Clause,license,Brian Gladman 2-Clause License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Brian-Gladman-2-Clause.txt
+Brian-Gladman-3-Clause,license,Brian Gladman 3-Clause License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Brian-Gladman-3-Clause.txt
+Brian-Gladman-3-Clause-no-conversion,license,Brian Gladman 3-Clause License (no conversion clause),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Brian-Gladman-3-Clause-no-conversion.txt
+BSD-1-Clause,license,BSD 1-Clause License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-1-Clause.txt
+BSD-2-Clause,license,"BSD 2-Clause ""Simplified"" License",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause.txt
+BSD-2-Clause-Darwin,license,BSD 2-Clause - Ian Darwin variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-Darwin.txt
+BSD-2-Clause-first-lines,license,BSD 2-Clause - first lines requirement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-first-lines.txt
+BSD-2-Clause-FreeBSD,license,BSD 2-Clause FreeBSD License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/BSD-2-Clause-FreeBSD.json
+BSD-2-Clause-NetBSD,license,BSD 2-Clause NetBSD License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/BSD-2-Clause-NetBSD.json
+BSD-2-Clause-Patent,license,BSD-2-Clause Plus Patent License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-Patent.txt
+BSD-2-Clause-pkgconf-disclaimer,license,BSD 2-Clause pkgconf disclaimer variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-pkgconf-disclaimer.txt
+BSD-2-Clause-pos-unchanged,license,BSD 2-Clause - position unchanged variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-pos-unchanged.txt
+BSD-2-Clause-Views,license,BSD 2-Clause with views sentence,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-Views.txt
+BSD-3-Clause,license,"BSD 3-Clause ""New"" or ""Revised"" License",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause.txt
+BSD-3-Clause-acpica,license,BSD 3-Clause acpica variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-acpica.txt
+BSD-3-Clause-Attribution,license,BSD with attribution,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Attribution.txt
+BSD-3-Clause-Clear,license,BSD 3-Clause Clear License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Clear.txt
+BSD-3-Clause-flex,license,BSD 3-Clause Flex variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-flex.txt
+BSD-3-Clause-HP,license,Hewlett-Packard BSD variant license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-HP.txt
+BSD-3-Clause-LBNL,license,Lawrence Berkeley National Labs BSD variant license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-LBNL.txt
+BSD-3-Clause-Modification,license,BSD 3-Clause Modification,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Modification.txt
+BSD-3-Clause-No-Military-License,license,BSD 3-Clause No Military License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-No-Military-License.txt
+BSD-3-Clause-No-Nuclear-License,license,BSD 3-Clause No Nuclear License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-No-Nuclear-License.txt
+BSD-3-Clause-No-Nuclear-License-2014,license,BSD 3-Clause No Nuclear License 2014,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-No-Nuclear-License-2014.txt
+BSD-3-Clause-No-Nuclear-Warranty,license,BSD 3-Clause No Nuclear Warranty,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-No-Nuclear-Warranty.txt
+BSD-3-Clause-Open-MPI,license,BSD 3-Clause Open MPI variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Open-MPI.txt
+BSD-3-Clause-OpenWebUI,license,BSD 3-Clause - OpenWebUI variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-OpenWebUI.txt
+BSD-3-Clause-Sun,license,BSD 3-Clause Sun Microsystems,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Sun.txt
+BSD-3-Clause-Tso,license,BSD 3-Clause Tso variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Tso.txt
+BSD-4-Clause,license,"BSD 4-Clause ""Original"" or ""Old"" License",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-4-Clause.txt
+BSD-4-Clause-Shortened,license,BSD 4 Clause Shortened,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-4-Clause-Shortened.txt
+BSD-4-Clause-UC,license,BSD-4-Clause (University of California-Specific),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-4-Clause-UC.txt
+BSD-4.3RENO,license,BSD 4.3 RENO License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-4.3RENO.txt
+BSD-4.3TAHOE,license,BSD 4.3 TAHOE License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-4.3TAHOE.txt
+BSD-Advertising-Acknowledgement,license,BSD Advertising Acknowledgement License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Advertising-Acknowledgement.txt
+BSD-ask-to-endorse,license,BSD - ask to endorse,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-ask-to-endorse.txt
+BSD-Attribution-HPND-disclaimer,license,BSD with Attribution and HPND disclaimer,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Attribution-HPND-disclaimer.txt
+BSD-Inferno-Nettverk,license,BSD-Inferno-Nettverk,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Inferno-Nettverk.txt
+BSD-Mark-Modifications,license,BSD Mark Modifications License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Mark-Modifications.txt
+BSD-Protection,license,BSD Protection License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Protection.txt
+BSD-Source-alt-GPL,license,BSD Source Code Attribution - GPL alternative,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Source-alt-GPL.txt
+BSD-Source-beginning-file,license,BSD Source Code Attribution - beginning of file variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Source-beginning-file.txt
+BSD-Source-Code,license,BSD Source Code Attribution,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Source-Code.txt
+BSD-Source-Code-no-disclaimer,license,BSD Source Code Attribution - no disclaimer,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Source-Code-no-disclaimer.txt
+BSD-Systemics,license,Systemics BSD variant license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Systemics.txt
+BSD-Systemics-W3Works,license,Systemics W3Works BSD variant license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Systemics-W3Works.txt
+BSL-1.0,license,Boost Software License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSL-1.0.txt
+Buddy,license,Buddy License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Buddy.txt
+Bugroff,license,Bugroff License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bugroff.txt
+BUSL-1.1,license,Business Source License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/BUSL-1.1.txt
+bzip2-1.0.5,license,bzip2 and libbzip2 License v1.0.5,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/bzip2-1.0.5.json
+bzip2-1.0.6,license,bzip2 and libbzip2 License v1.0.6,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/bzip2-1.0.6.txt
+C-UDA-1.0,license,Computational Use of Data Agreement v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/C-UDA-1.0.txt
+CAL-1.0,license,Cryptographic Autonomy License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CAL-1.0.txt
+CAL-1.0-Combined-Work-Exception,license,Cryptographic Autonomy License 1.0 (Combined Work Exception),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CAL-1.0-Combined-Work-Exception.txt
+Caldera,license,Caldera License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Caldera.txt
+Caldera-no-preamble,license,Caldera License (without preamble),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Caldera-no-preamble.txt
+CAPEC-tou,license,Common Attack    Pattern Enumeration and Classification License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CAPEC-tou.txt
+Catharon,license,Catharon License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Catharon.txt
+CATOSL-1.1,license,Computer Associates Trusted Open Source License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CATOSL-1.1.txt
+CC-BY-1.0,license,Creative Commons Attribution 1.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-1.0.txt
+CC-BY-2.0,license,Creative Commons Attribution 2.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-2.0.txt
+CC-BY-2.5,license,Creative Commons Attribution 2.5 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-2.5.txt
+CC-BY-2.5-AU,license,Creative Commons Attribution 2.5 Australia,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-2.5-AU.txt
+CC-BY-3.0,license,Creative Commons Attribution 3.0 Unported,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0.txt
+CC-BY-3.0-AT,license,Creative Commons Attribution 3.0 Austria,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-AT.txt
+CC-BY-3.0-AU,license,Creative Commons Attribution 3.0 Australia,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-AU.txt
+CC-BY-3.0-DE,license,Creative Commons Attribution 3.0 Germany,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-DE.txt
+CC-BY-3.0-IGO,license,Creative Commons Attribution 3.0 IGO,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-IGO.txt
+CC-BY-3.0-NL,license,Creative Commons Attribution 3.0 Netherlands,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-NL.txt
+CC-BY-3.0-US,license,Creative Commons Attribution 3.0 United States,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-US.txt
+CC-BY-4.0,license,Creative Commons Attribution 4.0 International,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-4.0.txt
+CC-BY-NC-1.0,license,Creative Commons Attribution Non Commercial 1.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-1.0.txt
+CC-BY-NC-2.0,license,Creative Commons Attribution Non Commercial 2.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-2.0.txt
+CC-BY-NC-2.5,license,Creative Commons Attribution Non Commercial 2.5 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-2.5.txt
+CC-BY-NC-3.0,license,Creative Commons Attribution Non Commercial 3.0 Unported,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-3.0.txt
+CC-BY-NC-3.0-DE,license,Creative Commons Attribution Non Commercial 3.0 Germany,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-3.0-DE.txt
+CC-BY-NC-3.0-IGO,license,Creative Commons Attribution Non Commercial 3.0 IGO,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-3.0-IGO.txt
+CC-BY-NC-4.0,license,Creative Commons Attribution Non Commercial 4.0 International,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-4.0.txt
+CC-BY-NC-ND-1.0,license,Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-1.0.txt
+CC-BY-NC-ND-2.0,license,Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-2.0.txt
+CC-BY-NC-ND-2.5,license,Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-2.5.txt
+CC-BY-NC-ND-3.0,license,Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-3.0.txt
+CC-BY-NC-ND-3.0-DE,license,Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-3.0-DE.txt
+CC-BY-NC-ND-3.0-IGO,license,Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-3.0-IGO.txt
+CC-BY-NC-ND-4.0,license,Creative Commons Attribution Non Commercial No Derivatives 4.0 International,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-ND-4.0.txt
+CC-BY-NC-SA-1.0,license,Creative Commons Attribution Non Commercial Share Alike 1.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-1.0.txt
+CC-BY-NC-SA-2.0,license,Creative Commons Attribution Non Commercial Share Alike 2.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-2.0.txt
+CC-BY-NC-SA-2.0-DE,license,Creative Commons Attribution Non Commercial Share Alike 2.0 Germany,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-2.0-DE.txt
+CC-BY-NC-SA-2.0-FR,license,Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-2.0-FR.txt
+CC-BY-NC-SA-2.0-UK,license,Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-2.0-UK.txt
+CC-BY-NC-SA-2.5,license,Creative Commons Attribution Non Commercial Share Alike 2.5 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-2.5.txt
+CC-BY-NC-SA-3.0,license,Creative Commons Attribution Non Commercial Share Alike 3.0 Unported,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-3.0.txt
+CC-BY-NC-SA-3.0-DE,license,Creative Commons Attribution Non Commercial Share Alike 3.0 Germany,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-3.0-DE.txt
+CC-BY-NC-SA-3.0-IGO,license,Creative Commons Attribution Non Commercial Share Alike 3.0 IGO,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-3.0-IGO.txt
+CC-BY-NC-SA-4.0,license,Creative Commons Attribution Non Commercial Share Alike 4.0 International,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-SA-4.0.txt
+CC-BY-ND-1.0,license,Creative Commons Attribution No Derivatives 1.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-ND-1.0.txt
+CC-BY-ND-2.0,license,Creative Commons Attribution No Derivatives 2.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-ND-2.0.txt
+CC-BY-ND-2.5,license,Creative Commons Attribution No Derivatives 2.5 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-ND-2.5.txt
+CC-BY-ND-3.0,license,Creative Commons Attribution No Derivatives 3.0 Unported,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-ND-3.0.txt
+CC-BY-ND-3.0-DE,license,Creative Commons Attribution No Derivatives 3.0 Germany,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-ND-3.0-DE.txt
+CC-BY-ND-4.0,license,Creative Commons Attribution No Derivatives 4.0 International,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-ND-4.0.txt
+CC-BY-SA-1.0,license,Creative Commons Attribution Share Alike 1.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-1.0.txt
+CC-BY-SA-2.0,license,Creative Commons Attribution Share Alike 2.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-2.0.txt
+CC-BY-SA-2.0-UK,license,Creative Commons Attribution Share Alike 2.0 England and Wales,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-2.0-UK.txt
+CC-BY-SA-2.1-JP,license,Creative Commons Attribution Share Alike 2.1 Japan,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-2.1-JP.txt
+CC-BY-SA-2.5,license,Creative Commons Attribution Share Alike 2.5 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-2.5.txt
+CC-BY-SA-3.0,license,Creative Commons Attribution Share Alike 3.0 Unported,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-3.0.txt
+CC-BY-SA-3.0-AT,license,Creative Commons Attribution Share Alike 3.0 Austria,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-3.0-AT.txt
+CC-BY-SA-3.0-DE,license,Creative Commons Attribution Share Alike 3.0 Germany,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-3.0-DE.txt
+CC-BY-SA-3.0-IGO,license,Creative Commons Attribution-ShareAlike 3.0 IGO,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-3.0-IGO.txt
+CC-BY-SA-4.0,license,Creative Commons Attribution Share Alike 4.0 International,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-4.0.txt
+CC-PDDC,license,Creative Commons Public Domain Dedication and Certification,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-PDDC.txt
+CC-PDM-1.0,license,Creative    Commons Public Domain Mark 1.0 Universal,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-PDM-1.0.txt
+CC-SA-1.0,license,Creative Commons Share Alike 1.0 Generic,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-SA-1.0.txt
+CC0-1.0,license,Creative Commons Zero v1.0 Universal,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC0-1.0.txt
+CDDL-1.0,license,Common Development and Distribution License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CDDL-1.0.txt
+CDDL-1.1,license,Common Development and Distribution License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CDDL-1.1.txt
+CDL-1.0,license,Common Documentation License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CDL-1.0.txt
+CDLA-Permissive-1.0,license,Community Data License Agreement Permissive 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CDLA-Permissive-1.0.txt
+CDLA-Permissive-2.0,license,Community Data License Agreement Permissive 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CDLA-Permissive-2.0.txt
+CDLA-Sharing-1.0,license,Community Data License Agreement Sharing 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CDLA-Sharing-1.0.txt
+CECILL-1.0,license,CeCILL Free Software License Agreement v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-1.0.txt
+CECILL-1.1,license,CeCILL Free Software License Agreement v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-1.1.txt
+CECILL-2.0,license,CeCILL Free Software License Agreement v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-2.0.txt
+CECILL-2.1,license,CeCILL Free Software License Agreement v2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-2.1.txt
+CECILL-B,license,CeCILL-B Free Software License Agreement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-B.txt
+CECILL-C,license,CeCILL-C Free Software License Agreement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-C.txt
+CERN-OHL-1.1,license,CERN Open Hardware Licence v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CERN-OHL-1.1.txt
+CERN-OHL-1.2,license,CERN Open Hardware Licence v1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CERN-OHL-1.2.txt
+CERN-OHL-P-2.0,license,CERN Open Hardware Licence Version 2 - Permissive,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CERN-OHL-P-2.0.txt
+CERN-OHL-S-2.0,license,CERN Open Hardware Licence Version 2 - Strongly Reciprocal,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CERN-OHL-S-2.0.txt
+CERN-OHL-W-2.0,license,CERN Open Hardware Licence Version 2 - Weakly Reciprocal,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CERN-OHL-W-2.0.txt
+CFITSIO,license,CFITSIO License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CFITSIO.txt
+check-cvs,license,check-cvs License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/check-cvs.txt
+checkmk,license,Checkmk License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/checkmk.txt
+ClArtistic,license,Clarified Artistic License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ClArtistic.txt
+Clips,license,Clips License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Clips.txt
+CMU-Mach,license,CMU Mach License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CMU-Mach.txt
+CMU-Mach-nodoc,license,CMU    Mach - no notices-in-documentation variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CMU-Mach-nodoc.txt
+CNRI-Jython,license,CNRI Jython License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CNRI-Jython.txt
+CNRI-Python,license,CNRI Python License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CNRI-Python.txt
+CNRI-Python-GPL-Compatible,license,CNRI Python Open Source GPL Compatible License Agreement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CNRI-Python-GPL-Compatible.txt
+COIL-1.0,license,Copyfree Open Innovation License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/COIL-1.0.txt
+Community-Spec-1.0,license,Community Specification License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Community-Spec-1.0.txt
+Condor-1.1,license,Condor Public License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Condor-1.1.txt
+copyleft-next-0.3.0,license,copyleft-next 0.3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/copyleft-next-0.3.0.txt
+copyleft-next-0.3.1,license,copyleft-next 0.3.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/copyleft-next-0.3.1.txt
+Cornell-Lossless-JPEG,license,Cornell Lossless JPEG License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Cornell-Lossless-JPEG.txt
+CPAL-1.0,license,Common Public Attribution License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CPAL-1.0.txt
+CPL-1.0,license,Common Public License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CPL-1.0.txt
+CPOL-1.02,license,Code Project Open License 1.02,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CPOL-1.02.txt
+Cronyx,license,Cronyx License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Cronyx.txt
+Crossword,license,Crossword License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Crossword.txt
+CryptoSwift,license,CryptoSwift License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CryptoSwift.txt
+CrystalStacker,license,CrystalStacker License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CrystalStacker.txt
+CUA-OPL-1.0,license,CUA Office Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/CUA-OPL-1.0.txt
+Cube,license,Cube License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Cube.txt
+curl,license,curl License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/curl.txt
+cve-tou,license,Common Vulnerability Enumeration ToU License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/cve-tou.txt
+D-FSL-1.0,license,Deutsche Freie Software Lizenz,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/D-FSL-1.0.txt
+DEC-3-Clause,license,DEC 3-Clause License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DEC-3-Clause.txt
+diffmark,license,diffmark license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/diffmark.txt
+DL-DE-BY-2.0,license,Data licence Germany – attribution – version 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DL-DE-BY-2.0.txt
+DL-DE-ZERO-2.0,license,Data licence Germany – zero – version 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DL-DE-ZERO-2.0.txt
+DOC,license,DOC License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DOC.txt
+DocBook-DTD,license,DocBook DTD License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DocBook-DTD.txt
+DocBook-Schema,license,DocBook Schema License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DocBook-Schema.txt
+DocBook-Stylesheet,license,DocBook Stylesheet License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DocBook-Stylesheet.txt
+DocBook-XML,license,DocBook XML License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DocBook-XML.txt
+Dotseqn,license,Dotseqn License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Dotseqn.txt
+DRL-1.0,license,Detection Rule License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DRL-1.0.txt
+DRL-1.1,license,Detection Rule License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DRL-1.1.txt
+DSDP,license,DSDP License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/DSDP.txt
+dtoa,license,David M. Gay dtoa License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/dtoa.txt
+dvipdfm,license,dvipdfm License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/dvipdfm.txt
+ECL-1.0,license,Educational Community License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ECL-1.0.txt
+ECL-2.0,license,Educational Community License v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ECL-2.0.txt
+eCos-2.0,license,eCos license version 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/eCos-2.0.json
+EFL-1.0,license,Eiffel Forum License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EFL-1.0.txt
+EFL-2.0,license,Eiffel Forum License v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EFL-2.0.txt
+eGenix,license,eGenix.com Public License 1.1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/eGenix.txt
+Elastic-2.0,license,Elastic License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Elastic-2.0.txt
+Entessa,license,Entessa Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Entessa.txt
+EPICS,license,EPICS Open License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EPICS.txt
+EPL-1.0,license,Eclipse Public License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EPL-1.0.txt
+EPL-2.0,license,Eclipse Public License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EPL-2.0.txt
+ErlPL-1.1,license,Erlang Public License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ErlPL-1.1.txt
+ESA-PL-permissive-2.4,license,European Space Agency Public License – v2.4 – Permissive (Type 3),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ESA-PL-permissive-2.4.txt
+ESA-PL-strong-copyleft-2.4,license,European Space Agency Public License (ESA-PL) - V2.4 - Strong Copyleft (Type 1),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ESA-PL-strong-copyleft-2.4.txt
+ESA-PL-weak-copyleft-2.4,license,European Space Agency Public License – v2.4 – Weak Copyleft (Type 2),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ESA-PL-weak-copyleft-2.4.txt
+etalab-2.0,license,Etalab Open License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/etalab-2.0.txt
+EUDatagrid,license,EU DataGrid Software License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EUDatagrid.txt
+EUPL-1.0,license,European Union Public License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EUPL-1.0.txt
+EUPL-1.1,license,European Union Public License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EUPL-1.1.txt
+EUPL-1.2,license,European Union Public License 1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/EUPL-1.2.txt
+Eurosym,license,Eurosym License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Eurosym.txt
+Fair,license,Fair License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Fair.txt
+FBM,license,Fuzzy Bitmap License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FBM.txt
+FDK-AAC,license,Fraunhofer FDK AAC Codec Library,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FDK-AAC.txt
+FDK-MPEG-H,license,Fraunhofer FDK MPEG-H Software,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FDK-MPEG-H.txt
+Ferguson-Twofish,license,Ferguson Twofish License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Ferguson-Twofish.txt
+Frameworx-1.0,license,Frameworx Open License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Frameworx-1.0.txt
+FreeBSD-DOC,license,FreeBSD Documentation License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FreeBSD-DOC.txt
+FreeImage,license,FreeImage Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FreeImage.txt
+FSFAP,license,FSF All Permissive License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFAP.txt
+FSFAP-no-warranty-disclaimer,license,FSF All Permissive License (without Warranty),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFAP-no-warranty-disclaimer.txt
+FSFUL,license,FSF Unlimited License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFUL.txt
+FSFULLR,license,FSF Unlimited License (with License Retention),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFULLR.txt
+FSFULLRSD,license,FSF Unlimited License (with License Retention and Short Disclaimer),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFULLRSD.txt
+FSFULLRWD,license,FSF Unlimited License (With License Retention and Warranty Disclaimer),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFULLRWD.txt
+FSL-1.1-ALv2,license,"Functional Source License, Version 1.1, ALv2 Future License",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSL-1.1-ALv2.txt
+FSL-1.1-MIT,license,"Functional Source License, Version 1.1, MIT Future License",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSL-1.1-MIT.txt
+FTL,license,Freetype Project License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/FTL.txt
+Furuseth,license,Furuseth License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Furuseth.txt
+fwlw,license,fwlw License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/fwlw.txt
+Game-Programming-Gems,license,Game Programming Gems License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Game-Programming-Gems.txt
+GCR-docs,license,Gnome GCR Documentation License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GCR-docs.txt
+GD,license,GD License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GD.txt
+generic-xts,license,Generic XTS License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/generic-xts.txt
+GFDL-1.1,license,GNU Free Documentation License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GFDL-1.1.json
+GFDL-1.1-invariants-only,license,GNU Free Documentation License v1.1 only - invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.1-invariants-only.txt
+GFDL-1.1-invariants-or-later,license,GNU Free Documentation License v1.1 or later - invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.1-invariants-or-later.txt
+GFDL-1.1-no-invariants-only,license,GNU Free Documentation License v1.1 only - no invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.1-no-invariants-only.txt
+GFDL-1.1-no-invariants-or-later,license,GNU Free Documentation License v1.1 or later - no invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.1-no-invariants-or-later.txt
+GFDL-1.1-only,license,GNU Free Documentation License v1.1 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.1-only.txt
+GFDL-1.1-or-later,license,GNU Free Documentation License v1.1 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.1-or-later.txt
+GFDL-1.2,license,GNU Free Documentation License v1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GFDL-1.2.json
+GFDL-1.2-invariants-only,license,GNU Free Documentation License v1.2 only - invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.2-invariants-only.txt
+GFDL-1.2-invariants-or-later,license,GNU Free Documentation License v1.2 or later - invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.2-invariants-or-later.txt
+GFDL-1.2-no-invariants-only,license,GNU Free Documentation License v1.2 only - no invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.2-no-invariants-only.txt
+GFDL-1.2-no-invariants-or-later,license,GNU Free Documentation License v1.2 or later - no invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.2-no-invariants-or-later.txt
+GFDL-1.2-only,license,GNU Free Documentation License v1.2 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.2-only.txt
+GFDL-1.2-or-later,license,GNU Free Documentation License v1.2 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.2-or-later.txt
+GFDL-1.3,license,GNU Free Documentation License v1.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GFDL-1.3.json
+GFDL-1.3-invariants-only,license,GNU Free Documentation License v1.3 only - invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.3-invariants-only.txt
+GFDL-1.3-invariants-or-later,license,GNU Free Documentation License v1.3 or later - invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.3-invariants-or-later.txt
+GFDL-1.3-no-invariants-only,license,GNU Free Documentation License v1.3 only - no invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.3-no-invariants-only.txt
+GFDL-1.3-no-invariants-or-later,license,GNU Free Documentation License v1.3 or later - no invariants,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.3-no-invariants-or-later.txt
+GFDL-1.3-only,license,GNU Free Documentation License v1.3 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.3-only.txt
+GFDL-1.3-or-later,license,GNU Free Documentation License v1.3 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.3-or-later.txt
+Giftware,license,Giftware License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Giftware.txt
+GL2PS,license,GL2PS License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GL2PS.txt
+Glide,license,3dfx Glide License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Glide.txt
+Glulxe,license,Glulxe License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Glulxe.txt
+GLWTPL,license,Good Luck With That Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GLWTPL.txt
+gnuplot,license,gnuplot License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/gnuplot.txt
+GPL-1.0,license,GNU General Public License v1.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-1.0.json
+GPL-1.0+,license,GNU General Public License v1.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-1.0+.json
+GPL-1.0-only,license,GNU General Public License v1.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-1.0-only.txt
+GPL-1.0-or-later,license,GNU General Public License v1.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-1.0-or-later.txt
+GPL-2.0,license,GNU General Public License v2.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-2.0.json
+GPL-2.0+,license,GNU General Public License v2.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-2.0+.json
+GPL-2.0-only,license,GNU General Public License v2.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-2.0-only.txt
+GPL-2.0-or-later,license,GNU General Public License v2.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-2.0-or-later.txt
+GPL-2.0-with-autoconf-exception,license,GNU General Public License v2.0 w/Autoconf exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-2.0-with-autoconf-exception.json
+GPL-2.0-with-bison-exception,license,GNU General Public License v2.0 w/Bison exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-2.0-with-bison-exception.json
+GPL-2.0-with-classpath-exception,license,GNU General Public License v2.0 w/Classpath exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-2.0-with-classpath-exception.json
+GPL-2.0-with-font-exception,license,GNU General Public License v2.0 w/Font exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-2.0-with-font-exception.json
+GPL-2.0-with-GCC-exception,license,GNU General Public License v2.0 w/GCC Runtime Library exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-2.0-with-GCC-exception.json
+GPL-3.0,license,GNU General Public License v3.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-3.0.json
+GPL-3.0+,license,GNU General Public License v3.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-3.0+.json
+GPL-3.0-only,license,GNU General Public License v3.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-only.txt
+GPL-3.0-or-later,license,GNU General Public License v3.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-or-later.txt
+GPL-3.0-with-autoconf-exception,license,GNU General Public License v3.0 w/Autoconf exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-3.0-with-autoconf-exception.json
+GPL-3.0-with-GCC-exception,license,GNU General Public License v3.0 w/GCC Runtime Library exception,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-3.0-with-GCC-exception.json
+Graphics-Gems,license,Graphics Gems License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Graphics-Gems.txt
+gSOAP-1.3b,license,gSOAP Public License v1.3b,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/gSOAP-1.3b.txt
+gtkbook,license,gtkbook License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/gtkbook.txt
+Gutmann,license,Gutmann License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Gutmann.txt
+HaskellReport,license,Haskell Language Report License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HaskellReport.txt
+HDF5,license,HDF5 License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HDF5.txt
+hdparm,license,hdparm License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/hdparm.txt
+HIDAPI,license,HIDAPI License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HIDAPI.txt
+Hippocratic-2.1,license,Hippocratic License 2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Hippocratic-2.1.txt
+Hippocratic-3.0-core,license,Hippocratic License 3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Hippocratic-3.0-core.txt
+HP-1986,license,Hewlett-Packard 1986 License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HP-1986.txt
+HP-1989,license,Hewlett-Packard 1989 License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HP-1989.txt
+HPND,license,Historical Permission Notice and Disclaimer,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND.txt
+HPND-DEC,license,Historical Permission Notice and Disclaimer - DEC variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-DEC.txt
+HPND-doc,license,Historical Permission Notice and Disclaimer - documentation variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-doc.txt
+HPND-doc-sell,license,Historical Permission Notice and Disclaimer - documentation sell variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-doc-sell.txt
+HPND-export-US,license,HPND with US Government export control warning,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-export-US.txt
+HPND-export-US-acknowledgement,license,HPND with US Government export control warning and acknowledgment,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-export-US-acknowledgement.txt
+HPND-export-US-modify,license,HPND with US Government export control warning and modification rqmt,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-export-US-modify.txt
+HPND-export2-US,license,HPND with US Government export control and 2 disclaimers,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-export2-US.txt
+HPND-Fenneberg-Livingston,license,Historical Permission Notice and Disclaimer - Fenneberg-Livingston variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Fenneberg-Livingston.txt
+HPND-INRIA-IMAG,license,Historical Permission Notice and Disclaimer    - INRIA-IMAG variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-INRIA-IMAG.txt
+HPND-Intel,license,Historical Permission Notice and Disclaimer - Intel variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Intel.txt
+HPND-Kevlin-Henney,license,Historical Permission Notice and Disclaimer - Kevlin Henney variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Kevlin-Henney.txt
+HPND-Markus-Kuhn,license,Historical Permission Notice and Disclaimer - Markus Kuhn variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Markus-Kuhn.txt
+HPND-merchantability-variant,license,Historical Permission Notice and Disclaimer - merchantability variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-merchantability-variant.txt
+HPND-MIT-disclaimer,license,Historical Permission Notice and Disclaimer with MIT disclaimer,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-MIT-disclaimer.txt
+HPND-Netrek,license,Historical Permission Notice and Disclaimer - Netrek variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Netrek.txt
+HPND-Pbmplus,license,Historical Permission Notice and Disclaimer - Pbmplus variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Pbmplus.txt
+HPND-sell-MIT-disclaimer-xserver,license,Historical Permission Notice and Disclaimer - sell xserver variant with MIT disclaimer,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-MIT-disclaimer-xserver.txt
+HPND-sell-regexpr,license,Historical Permission Notice and Disclaimer - sell regexpr variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-regexpr.txt
+HPND-sell-variant,license,Historical Permission Notice and Disclaimer - sell variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-variant.txt
+HPND-sell-variant-critical-systems,license,HPND - sell variant with safety critical systems clause,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-variant-critical-systems.txt
+HPND-sell-variant-MIT-disclaimer,license,HPND sell variant with MIT disclaimer,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-variant-MIT-disclaimer.txt
+HPND-sell-variant-MIT-disclaimer-rev,license,HPND sell variant with MIT disclaimer - reverse,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-variant-MIT-disclaimer-rev.txt
+HPND-SMC,license,Historical Permission Notice and Disclaimer - SMC variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-SMC.txt
+HPND-UC,license,Historical Permission Notice and Disclaimer - University of California variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-UC.txt
+HPND-UC-export-US,license,"Historical Permission Notice and Disclaimer - University of California, US export warning",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-UC-export-US.txt
+HTMLTIDY,license,HTML Tidy License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/HTMLTIDY.txt
+hyphen-bulgarian,license,hyphen-bulgarian License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/hyphen-bulgarian.txt
+IBM-pibs,license,IBM PowerPC Initialization and Boot Software,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/IBM-pibs.txt
+ICU,license,ICU License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ICU.txt
+IEC-Code-Components-EULA,license,IEC    Code Components End-user licence agreement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/IEC-Code-Components-EULA.txt
+IJG,license,Independent JPEG Group License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/IJG.txt
+IJG-short,license,Independent JPEG Group License - short,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/IJG-short.txt
+ImageMagick,license,ImageMagick License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ImageMagick.txt
+iMatix,license,iMatix Standard Function Library Agreement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/iMatix.txt
+Imlib2,license,Imlib2 License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Imlib2.txt
+Info-ZIP,license,Info-ZIP License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Info-ZIP.txt
+Informatica,license,Informatica License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Informatica.txt
+Inner-Net-2.0,license,Inner Net License v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Inner-Net-2.0.txt
+InnoSetup,license,Inno Setup License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/InnoSetup.txt
+Intel,license,Intel Open Source License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Intel.txt
+Intel-ACPI,license,Intel ACPI Software License Agreement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Intel-ACPI.txt
+Interbase-1.0,license,Interbase Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Interbase-1.0.txt
+IPA,license,IPA Font License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/IPA.txt
+IPL-1.0,license,IBM Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/IPL-1.0.txt
+ISC,license,ISC License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ISC.txt
+ISC-Veillard,license,ISC Veillard variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ISC-Veillard.txt
+ISO-permission,license,ISO permission notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ISO-permission.txt
+Jam,license,Jam License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Jam.txt
+JasPer-2.0,license,JasPer License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/JasPer-2.0.txt
+jove,license,Jove License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/jove.txt
+JPL-image,license,JPL Image Use Policy,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/JPL-image.txt
+JPNIC,license,Japan Network Information Center License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/JPNIC.txt
+JSON,license,JSON License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/JSON.txt
+Kastrup,license,Kastrup License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Kastrup.txt
+Kazlib,license,Kazlib License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Kazlib.txt
+Knuth-CTAN,license,Knuth CTAN License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Knuth-CTAN.txt
+LAL-1.2,license,Licence Art Libre 1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LAL-1.2.txt
+LAL-1.3,license,Licence Art Libre 1.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LAL-1.3.txt
+Latex2e,license,Latex2e License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Latex2e.txt
+Latex2e-translated-notice,license,Latex2e with translated notice permission,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Latex2e-translated-notice.txt
+Leptonica,license,Leptonica License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Leptonica.txt
+LGPL-2.0,license,GNU Library General Public License v2 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-2.0.json
+LGPL-2.0+,license,GNU Library General Public License v2 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-2.0+.json
+LGPL-2.0-only,license,GNU Library General Public License v2 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPL-2.0-only.txt
+LGPL-2.0-or-later,license,GNU Library General Public License v2 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPL-2.0-or-later.txt
+LGPL-2.1,license,GNU Lesser General Public License v2.1 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-2.1.json
+LGPL-2.1+,license,GNU Lesser General Public License v2.1 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-2.1+.json
+LGPL-2.1-only,license,GNU Lesser General Public License v2.1 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPL-2.1-only.txt
+LGPL-2.1-or-later,license,GNU Lesser General Public License v2.1 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPL-2.1-or-later.txt
+LGPL-3.0,license,GNU Lesser General Public License v3.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-3.0.json
+LGPL-3.0+,license,GNU Lesser General Public License v3.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-3.0+.json
+LGPL-3.0-only,license,GNU Lesser General Public License v3.0 only,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPL-3.0-only.txt
+LGPL-3.0-or-later,license,GNU Lesser General Public License v3.0 or later,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPL-3.0-or-later.txt
+LGPLLR,license,Lesser General Public License For Linguistic Resources,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPLLR.txt
+Libpng,license,libpng License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Libpng.txt
+libpng-1.6.35,license,PNG Reference Library License v1 (for libpng 0.5 through 1.6.35),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/libpng-1.6.35.txt
+libpng-2.0,license,PNG Reference Library version 2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/libpng-2.0.txt
+libselinux-1.0,license,libselinux public domain notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/libselinux-1.0.txt
+libtiff,license,libtiff License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/libtiff.txt
+libutil-David-Nugent,license,libutil David Nugent License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/libutil-David-Nugent.txt
+LiLiQ-P-1.1,license,Licence Libre du Québec – Permissive version 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LiLiQ-P-1.1.txt
+LiLiQ-R-1.1,license,Licence Libre du Québec – Réciprocité version 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LiLiQ-R-1.1.txt
+LiLiQ-Rplus-1.1,license,Licence Libre du Québec – Réciprocité forte version 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LiLiQ-Rplus-1.1.txt
+Linux-man-pages-1-para,license,Linux man-pages - 1 paragraph,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-man-pages-1-para.txt
+Linux-man-pages-copyleft,license,Linux man-pages Copyleft,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-man-pages-copyleft.txt
+Linux-man-pages-copyleft-2-para,license,Linux man-pages Copyleft - 2 paragraphs,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-man-pages-copyleft-2-para.txt
+Linux-man-pages-copyleft-var,license,Linux man-pages Copyleft Variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-man-pages-copyleft-var.txt
+Linux-OpenIB,license,Linux Kernel Variant of OpenIB.org license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-OpenIB.txt
+LOOP,license,Common Lisp LOOP License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LOOP.txt
+LPD-document,license,LPD Documentation License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPD-document.txt
+LPL-1.0,license,Lucent Public License Version 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPL-1.0.txt
+LPL-1.02,license,Lucent Public License v1.02,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPL-1.02.txt
+LPPL-1.0,license,LaTeX Project Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPPL-1.0.txt
+LPPL-1.1,license,LaTeX Project Public License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPPL-1.1.txt
+LPPL-1.2,license,LaTeX Project Public License v1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPPL-1.2.txt
+LPPL-1.3a,license,LaTeX Project Public License v1.3a,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPPL-1.3a.txt
+LPPL-1.3c,license,LaTeX Project Public License v1.3c,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LPPL-1.3c.txt
+lsof,license,lsof License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/lsof.txt
+Lucida-Bitmap-Fonts,license,Lucida Bitmap Fonts License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Lucida-Bitmap-Fonts.txt
+LZMA-SDK-9.11-to-9.20,license,LZMA SDK License (versions 9.11 to 9.20),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LZMA-SDK-9.11-to-9.20.txt
+LZMA-SDK-9.22,license,LZMA SDK License (versions 9.22 and beyond),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/LZMA-SDK-9.22.txt
+Mackerras-3-Clause,license,Mackerras 3-Clause License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Mackerras-3-Clause.txt
+Mackerras-3-Clause-acknowledgment,license,Mackerras 3-Clause - acknowledgment variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Mackerras-3-Clause-acknowledgment.txt
+magaz,license,magaz License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/magaz.txt
+mailprio,license,mailprio License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/mailprio.txt
+MakeIndex,license,MakeIndex License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MakeIndex.txt
+man2html,license,man2html License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/man2html.txt
+Martin-Birgmeier,license,Martin Birgmeier License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Martin-Birgmeier.txt
+McPhee-slideshow,license,McPhee Slideshow License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/McPhee-slideshow.txt
+metamail,license,metamail License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/metamail.txt
+Minpack,license,Minpack License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Minpack.txt
+MIPS,license,MIPS License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIPS.txt
+MirOS,license,The MirOS Licence,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MirOS.txt
+MIT,license,MIT License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT.txt
+MIT-0,license,MIT No Attribution,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-0.txt
+MIT-advertising,license,Enlightenment License (e16),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-advertising.txt
+MIT-Click,license,MIT Click License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-Click.txt
+MIT-CMU,license,CMU License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-CMU.txt
+MIT-enna,license,enna License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-enna.txt
+MIT-feh,license,feh License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-feh.txt
+MIT-Festival,license,MIT Festival Variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-Festival.txt
+MIT-Khronos-old,license,MIT Khronos - old variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-Khronos-old.txt
+MIT-Modern-Variant,license,MIT License Modern Variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-Modern-Variant.txt
+MIT-open-group,license,MIT Open Group variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-open-group.txt
+MIT-STK,license,MIT-STK License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-STK.txt
+MIT-testregex,license,MIT testregex Variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-testregex.txt
+MIT-Wu,license,MIT Tom Wu Variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-Wu.txt
+MITNFA,license,MIT +no-false-attribs license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MITNFA.txt
+MMIXware,license,MMIXware License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MMIXware.txt
+MMPL-1.0.1,license,Minecraft Mod Public License v1.0.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MMPL-1.0.1.txt
+Motosoto,license,Motosoto License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Motosoto.txt
+MPEG-SSG,license,MPEG Software Simulation,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPEG-SSG.txt
+mpi-permissive,license,mpi Permissive License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/mpi-permissive.txt
+mpich2,license,mpich2 License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/mpich2.txt
+MPL-1.0,license,Mozilla Public License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPL-1.0.txt
+MPL-1.1,license,Mozilla Public License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPL-1.1.txt
+MPL-2.0,license,Mozilla Public License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPL-2.0.txt
+MPL-2.0-no-copyleft-exception,license,Mozilla Public License 2.0 (no copyleft exception),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MPL-2.0-no-copyleft-exception.txt
+mplus,license,mplus Font License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/mplus.txt
+MS-LPL,license,Microsoft Limited Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MS-LPL.txt
+MS-PL,license,Microsoft Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MS-PL.txt
+MS-RL,license,Microsoft Reciprocal License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MS-RL.txt
+MTLL,license,Matrix Template Library License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MTLL.txt
+MulanPSL-1.0,license,"Mulan Permissive Software License, Version 1",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MulanPSL-1.0.txt
+MulanPSL-2.0,license,"Mulan Permissive Software License, Version 2",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MulanPSL-2.0.txt
+Multics,license,Multics License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Multics.txt
+Mup,license,Mup License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Mup.txt
+MVT-1.1,license,MVT License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/MVT-1.1.txt
+NAIST-2003,license,Nara Institute of Science and Technology License (2003),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NAIST-2003.txt
+NASA-1.3,license,NASA Open Source Agreement 1.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NASA-1.3.txt
+Naumen,license,Naumen Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Naumen.txt
+NBPL-1.0,license,Net Boolean Public License v1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NBPL-1.0.txt
+NCBI-PD,license,NCBI Public Domain Notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NCBI-PD.txt
+NCGL-UK-2.0,license,Non-Commercial Government Licence,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NCGL-UK-2.0.txt
+NCL,license,NCL Source Code License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NCL.txt
+NCSA,license,University of Illinois/NCSA Open Source License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NCSA.txt
+Net-SNMP,license,Net-SNMP License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/Net-SNMP.json
+NetCDF,license,NetCDF license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NetCDF.txt
+Newsletr,license,Newsletr License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Newsletr.txt
+NGPL,license,Nethack General Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NGPL.txt
+ngrep,license,ngrep License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ngrep.txt
+NICTA-1.0,license,"NICTA Public Software License, Version 1.0",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NICTA-1.0.txt
+NIST-PD,license,NIST Public Domain Notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NIST-PD.txt
+NIST-PD-fallback,license,NIST Public Domain Notice with license fallback,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NIST-PD-fallback.txt
+NIST-PD-TNT,license,NIST    Public Domain Notice TNT variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NIST-PD-TNT.txt
+NIST-Software,license,NIST Software License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NIST-Software.txt
+NLOD-1.0,license,Norwegian Licence for Open Government Data (NLOD) 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NLOD-1.0.txt
+NLOD-2.0,license,Norwegian Licence for Open Government Data (NLOD) 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NLOD-2.0.txt
+NLPL,license,No Limit Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NLPL.txt
+Nokia,license,Nokia Open Source License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Nokia.txt
+NOSL,license,Netizen Open Source License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NOSL.txt
+Noweb,license,Noweb License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Noweb.txt
+NPL-1.0,license,Netscape Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NPL-1.0.txt
+NPL-1.1,license,Netscape Public License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NPL-1.1.txt
+NPOSL-3.0,license,Non-Profit Open Software License 3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NPOSL-3.0.txt
+NRL,license,NRL License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NRL.txt
+NTIA-PD,license,NTIA Public Domain Notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NTIA-PD.txt
+NTP,license,NTP License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NTP.txt
+NTP-0,license,NTP No Attribution,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/NTP-0.txt
+Nunit,license,Nunit License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/Nunit.json
+O-UDA-1.0,license,Open Use of Data Agreement v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/O-UDA-1.0.txt
+OAR,license,OAR License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OAR.txt
+OCCT-PL,license,Open CASCADE Technology Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OCCT-PL.txt
+OCLC-2.0,license,OCLC Research Public License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OCLC-2.0.txt
+ODbL-1.0,license,Open Data Commons Open Database License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ODbL-1.0.txt
+ODC-By-1.0,license,Open Data Commons Attribution License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ODC-By-1.0.txt
+OFFIS,license,OFFIS License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFFIS.txt
+OFL-1.0,license,SIL Open Font License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFL-1.0.txt
+OFL-1.0-no-RFN,license,SIL Open Font License 1.0 with no Reserved Font Name,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFL-1.0-no-RFN.txt
+OFL-1.0-RFN,license,SIL Open Font License 1.0 with Reserved Font Name,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFL-1.0-RFN.txt
+OFL-1.1,license,SIL Open Font License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFL-1.1.txt
+OFL-1.1-no-RFN,license,SIL Open Font License 1.1 with no Reserved Font Name,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFL-1.1-no-RFN.txt
+OFL-1.1-RFN,license,SIL Open Font License 1.1 with Reserved Font Name,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OFL-1.1-RFN.txt
+OGC-1.0,license,"OGC Software License, Version 1.0",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGC-1.0.txt
+OGDL-Taiwan-1.0,license,"Taiwan Open Government Data License, version 1.0",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGDL-Taiwan-1.0.txt
+OGL-Canada-2.0,license,Open Government Licence - Canada,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGL-Canada-2.0.txt
+OGL-UK-1.0,license,Open Government Licence v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGL-UK-1.0.txt
+OGL-UK-2.0,license,Open Government Licence v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGL-UK-2.0.txt
+OGL-UK-3.0,license,Open Government Licence v3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGL-UK-3.0.txt
+OGTSL,license,Open Group Test Suite License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OGTSL.txt
+OLDAP-1.1,license,Open LDAP Public License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-1.1.txt
+OLDAP-1.2,license,Open LDAP Public License v1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-1.2.txt
+OLDAP-1.3,license,Open LDAP Public License v1.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-1.3.txt
+OLDAP-1.4,license,Open LDAP Public License v1.4,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-1.4.txt
+OLDAP-2.0,license,Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.0.txt
+OLDAP-2.0.1,license,Open LDAP Public License v2.0.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.0.1.txt
+OLDAP-2.1,license,Open LDAP Public License v2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.1.txt
+OLDAP-2.2,license,Open LDAP Public License v2.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.2.txt
+OLDAP-2.2.1,license,Open LDAP Public License v2.2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.2.1.txt
+OLDAP-2.2.2,license,Open LDAP Public License 2.2.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.2.2.txt
+OLDAP-2.3,license,Open LDAP Public License v2.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.3.txt
+OLDAP-2.4,license,Open LDAP Public License v2.4,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.4.txt
+OLDAP-2.5,license,Open LDAP Public License v2.5,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.5.txt
+OLDAP-2.6,license,Open LDAP Public License v2.6,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.6.txt
+OLDAP-2.7,license,Open LDAP Public License v2.7,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.7.txt
+OLDAP-2.8,license,Open LDAP Public License v2.8,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.8.txt
+OLFL-1.3,license,Open Logistics Foundation License Version 1.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLFL-1.3.txt
+OML,license,Open Market License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OML.txt
+OpenMDW-1.0,license,OpenMDW License Agreement v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenMDW-1.0.txt
+OpenPBS-2.3,license,OpenPBS v2.3 Software License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenPBS-2.3.txt
+OpenSSL,license,OpenSSL License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenSSL.txt
+OpenSSL-standalone,license,OpenSSL License - standalone,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenSSL-standalone.txt
+OpenVision,license,OpenVision License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenVision.txt
+OPL-1.0,license,Open Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OPL-1.0.txt
+OPL-UK-3.0,license,United    Kingdom Open Parliament Licence v3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OPL-UK-3.0.txt
+OPUBL-1.0,license,Open Publication License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OPUBL-1.0.txt
+OSC-1.0,license,OSC License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSC-1.0.txt
+OSET-PL-2.1,license,OSET Public License version 2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSET-PL-2.1.txt
+OSL-1.0,license,Open Software License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSL-1.0.txt
+OSL-1.1,license,Open Software License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSL-1.1.txt
+OSL-2.0,license,Open Software License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSL-2.0.txt
+OSL-2.1,license,Open Software License 2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSL-2.1.txt
+OSL-3.0,license,Open Software License 3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSL-3.0.txt
+OSSP,license,OSSP License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSSP.txt
+PADL,license,PADL License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PADL.txt
+ParaType-Free-Font-1.3,license,ParaType Free Font Licensing Agreement v1.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ParaType-Free-Font-1.3.txt
+Parity-6.0.0,license,The Parity Public License 6.0.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Parity-6.0.0.txt
+Parity-7.0.0,license,The Parity Public License 7.0.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Parity-7.0.0.txt
+PDDL-1.0,license,Open Data Commons Public Domain Dedication & License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PDDL-1.0.txt
+PHP-3.0,license,PHP License v3.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PHP-3.0.txt
+PHP-3.01,license,PHP License v3.01,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PHP-3.01.txt
+Pixar,license,Pixar License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Pixar.txt
+pkgconf,license,pkgconf License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/pkgconf.txt
+Plexus,license,Plexus Classworlds License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Plexus.txt
+pnmstitch,license,pnmstitch License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/pnmstitch.txt
+PolyForm-Noncommercial-1.0.0,license,PolyForm Noncommercial License 1.0.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PolyForm-Noncommercial-1.0.0.txt
+PolyForm-Small-Business-1.0.0,license,PolyForm Small Business License 1.0.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PolyForm-Small-Business-1.0.0.txt
+PostgreSQL,license,PostgreSQL License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PostgreSQL.txt
+PPL,license,Peer Production License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PPL.txt
+PSF-2.0,license,Python Software Foundation License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/PSF-2.0.txt
+psfrag,license,psfrag License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/psfrag.txt
+psutils,license,psutils License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/psutils.txt
+Python-2.0,license,Python License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Python-2.0.txt
+Python-2.0.1,license,Python License 2.0.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Python-2.0.1.txt
+python-ldap,license,Python ldap License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/python-ldap.txt
+Qhull,license,Qhull License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Qhull.txt
+QPL-1.0,license,Q Public License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/QPL-1.0.txt
+QPL-1.0-INRIA-2004,license,Q Public License 1.0 - INRIA 2004 variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/QPL-1.0-INRIA-2004.txt
+radvd,license,radvd License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/radvd.txt
+Rdisc,license,Rdisc License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Rdisc.txt
+RHeCos-1.1,license,Red Hat eCos Public License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/RHeCos-1.1.txt
+RPL-1.1,license,Reciprocal Public License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/RPL-1.1.txt
+RPL-1.5,license,Reciprocal Public License 1.5,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/RPL-1.5.txt
+RPSL-1.0,license,RealNetworks Public Source License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/RPSL-1.0.txt
+RSA-MD,license,RSA Message-Digest License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/RSA-MD.txt
+RSCPL,license,Ricoh Source Code Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/RSCPL.txt
+Ruby,license,Ruby License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Ruby.txt
+Ruby-pty,license,Ruby pty extension license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Ruby-pty.txt
+SAX-PD,license,Sax Public Domain Notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SAX-PD.txt
+SAX-PD-2.0,license,Sax Public Domain Notice 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SAX-PD-2.0.txt
+Saxpath,license,Saxpath License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Saxpath.txt
+SCEA,license,SCEA Shared Source License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SCEA.txt
+SchemeReport,license,Scheme Language Report License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SchemeReport.txt
+Sendmail,license,Sendmail License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sendmail.txt
+Sendmail-8.23,license,Sendmail License 8.23,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sendmail-8.23.txt
+Sendmail-Open-Source-1.1,license,Sendmail Open Source License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sendmail-Open-Source-1.1.txt
+SGI-B-1.0,license,SGI Free Software License B v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SGI-B-1.0.txt
+SGI-B-1.1,license,SGI Free Software License B v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SGI-B-1.1.txt
+SGI-B-2.0,license,SGI Free Software License B v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SGI-B-2.0.txt
+SGI-OpenGL,license,SGI OpenGL License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SGI-OpenGL.txt
+SGMLUG-PM,license,SGMLUG Parser Materials License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SGMLUG-PM.txt
+SGP4,license,SGP4 Permission Notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SGP4.txt
+SHL-0.5,license,Solderpad Hardware License v0.5,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SHL-0.5.txt
+SHL-0.51,license,"Solderpad Hardware License, Version 0.51",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SHL-0.51.txt
+SimPL-2.0,license,Simple Public License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SimPL-2.0.txt
+SISSL,license,Sun Industry Standards Source License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SISSL.txt
+SISSL-1.2,license,Sun Industry Standards Source License v1.2,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SISSL-1.2.txt
+SL,license,SL License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SL.txt
+Sleepycat,license,Sleepycat License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sleepycat.txt
+SMAIL-GPL,license,SMAIL General Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SMAIL-GPL.txt
+SMLNJ,license,Standard ML of New Jersey License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SMLNJ.txt
+SMPPL,license,Secure Messaging Protocol Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SMPPL.txt
+SNIA,license,SNIA Public License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SNIA.txt
+snprintf,license,snprintf License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/snprintf.txt
+SOFA,license,SOFA Software License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SOFA.txt
+softSurfer,license,softSurfer License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/softSurfer.txt
+Soundex,license,Soundex License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Soundex.txt
+Spencer-86,license,Spencer License 86,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Spencer-86.txt
+Spencer-94,license,Spencer License 94,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Spencer-94.txt
+Spencer-99,license,Spencer License 99,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Spencer-99.txt
+SPL-1.0,license,Sun Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SPL-1.0.txt
+ssh-keyscan,license,ssh-keyscan License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ssh-keyscan.txt
+SSH-OpenSSH,license,SSH OpenSSH license,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SSH-OpenSSH.txt
+SSH-short,license,SSH short notice,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SSH-short.txt
+SSLeay-standalone,license,SSLeay License - standalone,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SSLeay-standalone.txt
+SSPL-1.0,license,"Server Side Public License, v 1",downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SSPL-1.0.txt
+StandardML-NJ,license,Standard ML of New Jersey License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/StandardML-NJ.json
+SugarCRM-1.1.3,license,SugarCRM Public License v1.1.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SugarCRM-1.1.3.txt
+SUL-1.0,license,Sustainable Use License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SUL-1.0.txt
+Sun-PPP,license,Sun PPP License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sun-PPP.txt
+Sun-PPP-2000,license,Sun PPP License (2000),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Sun-PPP-2000.txt
+SunPro,license,SunPro License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SunPro.txt
+SWL,license,Scheme Widget Library (SWL) Software License Agreement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/SWL.txt
+swrule,license,swrule License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/swrule.txt
+Symlinks,license,Symlinks License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Symlinks.txt
+TAPR-OHL-1.0,license,TAPR Open Hardware License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TAPR-OHL-1.0.txt
+TCL,license,TCL/TK License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TCL.txt
+TCP-wrappers,license,TCP Wrappers License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TCP-wrappers.txt
+TekHVC,license,TekHVC License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TekHVC.txt
+TermReadKey,license,TermReadKey License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TermReadKey.txt
+TGPPL-1.0,license,Transitive Grace Period Public Licence 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TGPPL-1.0.txt
+ThirdEye,license,ThirdEye License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ThirdEye.txt
+threeparttable,license,threeparttable License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/threeparttable.txt
+TMate,license,TMate Open Source License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TMate.txt
+TORQUE-1.1,license,TORQUE v2.5+ Software License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TORQUE-1.1.txt
+TOSL,license,Trusster Open Source License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TOSL.txt
+TPDL,license,Time::ParseDate License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TPDL.txt
+TPL-1.0,license,THOR Public License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TPL-1.0.txt
+TrustedQSL,license,TrustedQSL License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TrustedQSL.txt
+TTWL,license,Text-Tabs+Wrap License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TTWL.txt
+TTYP0,license,TTYP0 License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TTYP0.txt
+TU-Berlin-1.0,license,Technische Universitaet Berlin License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TU-Berlin-1.0.txt
+TU-Berlin-2.0,license,Technische Universitaet Berlin License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/TU-Berlin-2.0.txt
+Ubuntu-font-1.0,license,Ubuntu Font Licence v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Ubuntu-font-1.0.txt
+UCAR,license,UCAR License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/UCAR.txt
+UCL-1.0,license,Upstream Compatibility License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/UCL-1.0.txt
+ulem,license,ulem License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ulem.txt
+UMich-Merit,license,Michigan/Merit Networks License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/UMich-Merit.txt
+Unicode-3.0,license,Unicode License v3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unicode-3.0.txt
+Unicode-DFS-2015,license,Unicode License Agreement - Data Files and Software (2015),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unicode-DFS-2015.txt
+Unicode-DFS-2016,license,Unicode License Agreement - Data Files and Software (2016),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unicode-DFS-2016.txt
+Unicode-TOU,license,Unicode Terms of Use,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unicode-TOU.txt
+UnixCrypt,license,UnixCrypt License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/UnixCrypt.txt
+Unlicense,license,The Unlicense,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unlicense.txt
+Unlicense-libtelnet,license,Unlicense - libtelnet variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unlicense-libtelnet.txt
+Unlicense-libwhirlpool,license,Unlicense - libwhirlpool variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Unlicense-libwhirlpool.txt
+UnRAR,license,UnRAR License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/UnRAR.txt
+UPL-1.0,license,Universal Permissive License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/UPL-1.0.txt
+URT-RLE,license,Utah Raster Toolkit Run Length Encoded License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/URT-RLE.txt
+Vim,license,Vim License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Vim.txt
+Vixie-Cron,license,Vixie Cron License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Vixie-Cron.txt
+VOSTROM,license,VOSTROM Public License for Open Source,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/VOSTROM.txt
+VSL-1.0,license,Vovida Software License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/VSL-1.0.txt
+W3C,license,W3C Software Notice and License (2002-12-31),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/W3C.txt
+W3C-19980720,license,W3C Software Notice and License (1998-07-20),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/W3C-19980720.txt
+W3C-20150513,license,W3C Software Notice and Document License (2015-05-13),downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/W3C-20150513.txt
+w3m,license,w3m License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/w3m.txt
+Watcom-1.0,license,Sybase Open Watcom Public License 1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Watcom-1.0.txt
+Widget-Workshop,license,Widget Workshop License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Widget-Workshop.txt
+WordNet,license,WordNet License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/WordNet.txt
+Wsuipa,license,Wsuipa License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Wsuipa.txt
+WTFNMFPL,license,Do What The F*ck You Want To But It's Not My Fault Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/WTFNMFPL.txt
+WTFPL,license,Do What The F*ck You Want To Public License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/WTFPL.txt
+wwl,license,WWL License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/wwl.txt
+wxWindows,license,wxWindows Library License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/wxWindows.json
+X11,license,X11 License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/X11.txt
+X11-distribute-modifications-variant,license,X11 License Distribution Modification Variant,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/X11-distribute-modifications-variant.txt
+X11-no-permit-persons,license,X11 no permit persons clause,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/X11-no-permit-persons.txt
+X11-swapped,license,X11 swapped final paragraphs,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/X11-swapped.txt
+Xdebug-1.03,license,Xdebug License v 1.03,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Xdebug-1.03.txt
+Xerox,license,Xerox License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Xerox.txt
+Xfig,license,Xfig License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Xfig.txt
+XFree86-1.1,license,XFree86 License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/XFree86-1.1.txt
+xinetd,license,xinetd License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/xinetd.txt
+xkeyboard-config-Zinoviev,license,xkeyboard-config Zinoviev License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/xkeyboard-config-Zinoviev.txt
+xlock,license,xlock License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/xlock.txt
+Xnet,license,X.Net License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Xnet.txt
+xpp,license,XPP License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/xpp.txt
+XSkat,license,XSkat License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/XSkat.txt
+xzoom,license,xzoom License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/xzoom.txt
+YPL-1.0,license,Yahoo! Public License v1.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/YPL-1.0.txt
+YPL-1.1,license,Yahoo! Public License v1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/YPL-1.1.txt
+Zed,license,Zed License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zed.txt
+Zeeff,license,Zeeff License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zeeff.txt
+Zend-2.0,license,Zend License v2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zend-2.0.txt
+Zimbra-1.3,license,Zimbra Public License v1.3,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zimbra-1.3.txt
+Zimbra-1.4,license,Zimbra Public License v1.4,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zimbra-1.4.txt
+Zlib,license,zlib License,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zlib.txt
+zlib-acknowledgement,license,zlib/libpng License with Acknowledgement,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/zlib-acknowledgement.txt
+ZPL-1.1,license,Zope Public License 1.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ZPL-1.1.txt
+ZPL-2.0,license,Zope Public License 2.0,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ZPL-2.0.txt
+ZPL-2.1,license,Zope Public License 2.1,downloaded,https://raw.githubusercontent.com/spdx/license-list-data/main/text/ZPL-2.1.txt

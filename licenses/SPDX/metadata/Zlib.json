@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/Zlib.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Zlib.json",
+  "referenceNumber": 555,
+  "name": "zlib License",
+  "licenseId": "Zlib",
+  "seeAlso": [
+    "http://www.zlib.net/zlib_license.html",
+    "https://opensource.org/license/Zlib"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zlib.txt"
+}

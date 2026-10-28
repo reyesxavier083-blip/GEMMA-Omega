@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/LGPL-2.1.html",
+  "isDeprecatedLicenseId": true,
+  "detailsUrl": "https://spdx.org/licenses/LGPL-2.1.json",
+  "referenceNumber": 186,
+  "name": "GNU Lesser General Public License v2.1 only",
+  "licenseId": "LGPL-2.1",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/old-licenses/lgpl-2.1-standalone.html",
+    "https://opensource.org/license/LGPL-2.1"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-2.1.json"
+}

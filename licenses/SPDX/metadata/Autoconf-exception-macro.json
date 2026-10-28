@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Autoconf-exception-macro.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Autoconf-exception-macro.json",
+  "referenceNumber": 50,
+  "name": "Autoconf macro exception",
+  "licenseExceptionId": "Autoconf-exception-macro",
+  "seeAlso": [
+    "https://github.com/freedesktop/xorg-macros/blob/39f07f7db58ebbf3dcb64a2bf9098ed5cf3d1223/xorg-macros.m4.in",
+    "https://www.gnu.org/software/autoconf-archive/ax_pthread.html",
+    "https://launchpad.net/ubuntu/precise/+source/xmltooling/+copyright"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Autoconf-exception-macro.txt"
+}

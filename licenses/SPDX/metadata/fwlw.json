@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/fwlw.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/fwlw.json",
+  "referenceNumber": 544,
+  "name": "fwlw License",
+  "licenseId": "fwlw",
+  "seeAlso": [
+    "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/fwlw/README"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/fwlw.txt"
+}

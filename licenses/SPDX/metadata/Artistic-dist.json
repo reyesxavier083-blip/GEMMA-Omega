@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Artistic-dist.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Artistic-dist.json",
+  "referenceNumber": 716,
+  "name": "Artistic License 1.0 (dist)",
+  "licenseId": "Artistic-dist",
+  "seeAlso": [
+    "https://github.com/pexip/os-perl/blob/833cf4c86cc465ccfc627ff16db67e783156a248/debian/copyright#L2720-L2845"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Artistic-dist.txt"
+}

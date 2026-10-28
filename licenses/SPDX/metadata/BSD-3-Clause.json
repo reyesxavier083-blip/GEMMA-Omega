@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-3-Clause.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause.json",
+  "referenceNumber": 95,
+  "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+  "licenseId": "BSD-3-Clause",
+  "seeAlso": [
+    "https://opensource.org/license/BSD-3-Clause",
+    "https://www.eclipse.org/org/documents/edl-v10.php"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause.txt"
+}

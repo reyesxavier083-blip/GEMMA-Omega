@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Plexus.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Plexus.json",
+  "referenceNumber": 726,
+  "name": "Plexus Classworlds License",
+  "licenseId": "Plexus",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Plexus_Classworlds_License"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Plexus.txt"
+}

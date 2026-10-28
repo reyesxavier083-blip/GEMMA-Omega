@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CGAL-linking-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CGAL-linking-exception.json",
+  "referenceNumber": 86,
+  "name": "CGAL Linking Exception",
+  "licenseExceptionId": "CGAL-linking-exception",
+  "seeAlso": [
+    "https://github.com/openscad/openscad/blob/openscad-2021.01/COPYING#L3",
+    "https://github.com/floriankirsch/OpenCSG/blob/opencsg-1-4-2-release/license.txt#L3"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CGAL-linking-exception.txt"
+}

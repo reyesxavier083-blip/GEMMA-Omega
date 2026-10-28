@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/MS-LPL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/MS-LPL.json",
+  "referenceNumber": 243,
+  "name": "Microsoft Limited Public License",
+  "licenseId": "MS-LPL",
+  "seeAlso": [
+    "https://www.openhub.net/licenses/mslpl",
+    "https://github.com/gabegundy/atlserver/blob/master/License.txt",
+    "https://en.wikipedia.org/wiki/Shared_Source_Initiative#Microsoft_Limited_Public_License_(Ms-LPL)"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MS-LPL.txt"
+}

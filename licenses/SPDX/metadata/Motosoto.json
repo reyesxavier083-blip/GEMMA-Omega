@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Motosoto.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Motosoto.json",
+  "referenceNumber": 431,
+  "name": "Motosoto License",
+  "licenseId": "Motosoto",
+  "seeAlso": [
+    "https://opensource.org/license/Motosoto"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Motosoto.txt"
+}

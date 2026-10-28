@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-Inferno-Nettverk.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-Inferno-Nettverk.json",
+  "referenceNumber": 54,
+  "name": "BSD-Inferno-Nettverk",
+  "licenseId": "BSD-Inferno-Nettverk",
+  "seeAlso": [
+    "https://www.inet.no/dante/LICENSE"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Inferno-Nettverk.txt"
+}

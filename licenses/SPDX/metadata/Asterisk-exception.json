@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Asterisk-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Asterisk-exception.json",
+  "referenceNumber": 7,
+  "name": "Asterisk exception",
+  "licenseExceptionId": "Asterisk-exception",
+  "seeAlso": [
+    "https://github.com/asterisk/libpri/blob/7f91151e6bd10957c746c031c1f4a030e8146e9a/pri.c#L22",
+    "https://github.com/asterisk/libss7/blob/03e81bcd0d28ff25d4c77c78351ddadc82ff5c3f/ss7.c#L24"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Asterisk-exception.txt"
+}

@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Ubuntu-font-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Ubuntu-font-1.0.json",
+  "referenceNumber": 481,
+  "name": "Ubuntu Font Licence v1.0",
+  "licenseId": "Ubuntu-font-1.0",
+  "seeAlso": [
+    "https://ubuntu.com/legal/font-licence",
+    "https://assets.ubuntu.com/v1/81e5605d-ubuntu-font-licence-1.0.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Ubuntu-font-1.0.txt"
+}

@@ -1,0 +1,18 @@
+{
+  "reference": "https://spdx.org/licenses/LGPL-3.0+.html",
+  "isDeprecatedLicenseId": true,
+  "detailsUrl": "https://spdx.org/licenses/LGPL-3.0+.json",
+  "referenceNumber": 315,
+  "name": "GNU Lesser General Public License v3.0 or later",
+  "licenseId": "LGPL-3.0+",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/lgpl-3.0-standalone.html",
+    "https://www.gnu.org/licenses/lgpl+gpl-3.0.txt",
+    "https://opensource.org/license/LGPL-3.0"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/LGPL-3.0+.json"
+}

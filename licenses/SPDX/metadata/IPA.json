@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/IPA.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/IPA.json",
+  "referenceNumber": 718,
+  "name": "IPA Font License",
+  "licenseId": "IPA",
+  "seeAlso": [
+    "https://opensource.org/license/IPA"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/IPA.txt"
+}

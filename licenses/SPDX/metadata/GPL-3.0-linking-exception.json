@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/GPL-3.0-linking-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GPL-3.0-linking-exception.json",
+  "referenceNumber": 75,
+  "name": "GPL-3.0 Linking Exception",
+  "licenseExceptionId": "GPL-3.0-linking-exception",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/gpl-faq.en.html#GPLIncompatibleLibs"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-linking-exception.txt"
+}

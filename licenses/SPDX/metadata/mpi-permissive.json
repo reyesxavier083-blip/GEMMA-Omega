@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/mpi-permissive.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/mpi-permissive.json",
+  "referenceNumber": 202,
+  "name": "mpi Permissive License",
+  "licenseId": "mpi-permissive",
+  "seeAlso": [
+    "https://sources.debian.org/src/openmpi/4.1.0-10/ompi/debuggers/msgq_interface.h/?hl=19#L19"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/mpi-permissive.txt"
+}

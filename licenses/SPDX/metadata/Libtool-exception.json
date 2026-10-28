@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Libtool-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Libtool-exception.json",
+  "referenceNumber": 27,
+  "name": "Libtool Exception",
+  "licenseExceptionId": "Libtool-exception",
+  "seeAlso": [
+    "http://git.savannah.gnu.org/cgit/libtool.git/tree/m4/libtool.m4",
+    "https://git.savannah.gnu.org/cgit/libtool.git/tree/libltdl/lt__alloc.c#n15"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Libtool-exception.txt"
+}

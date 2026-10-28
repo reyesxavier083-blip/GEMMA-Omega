@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Independent-modules-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Independent-modules-exception.json",
+  "referenceNumber": 68,
+  "name": "Independent Module Linking exception",
+  "licenseExceptionId": "Independent-modules-exception",
+  "seeAlso": [
+    "https://gitlab.com/freepascal.org/fpc/source/-/blob/release_3_2_2/rtl/COPYING.FPC"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Independent-modules-exception.txt"
+}

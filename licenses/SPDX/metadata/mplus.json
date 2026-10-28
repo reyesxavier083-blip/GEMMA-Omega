@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/mplus.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/mplus.json",
+  "referenceNumber": 104,
+  "name": "mplus Font License",
+  "licenseId": "mplus",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing:Mplus?rd=Licensing/mplus"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/mplus.txt"
+}

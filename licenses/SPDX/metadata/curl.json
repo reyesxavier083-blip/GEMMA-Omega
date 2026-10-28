@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/curl.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/curl.json",
+  "referenceNumber": 605,
+  "name": "curl License",
+  "licenseId": "curl",
+  "seeAlso": [
+    "https://github.com/bagder/curl/blob/master/COPYING",
+    "https://opensource.org/license/curl"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/curl.txt"
+}

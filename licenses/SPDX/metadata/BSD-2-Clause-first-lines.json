@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-2-Clause-first-lines.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-first-lines.json",
+  "referenceNumber": 198,
+  "name": "BSD 2-Clause - first lines requirement",
+  "licenseId": "BSD-2-Clause-first-lines",
+  "seeAlso": [
+    "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L664-L690",
+    "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-first-lines.txt"
+}

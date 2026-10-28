@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/TPL-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/TPL-1.0.json",
+  "referenceNumber": 706,
+  "name": "THOR Public License 1.0",
+  "licenseId": "TPL-1.0",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing:ThorPublicLicense"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TPL-1.0.txt"
+}

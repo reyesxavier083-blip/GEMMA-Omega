@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/LLVM-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/LLVM-exception.json",
+  "referenceNumber": 70,
+  "name": "LLVM Exception",
+  "licenseExceptionId": "LLVM-exception",
+  "seeAlso": [
+    "http://llvm.org/foundation/relicensing/LICENSE.txt",
+    "https://web.archive.org/web/20240423023852/https://foundation.llvm.org/relicensing/LICENSE.txt"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LLVM-exception.txt"
+}

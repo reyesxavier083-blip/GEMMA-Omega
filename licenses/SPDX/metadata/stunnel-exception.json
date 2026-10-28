@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/stunnel-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/stunnel-exception.json",
+  "referenceNumber": 74,
+  "name": "stunnel Exception",
+  "licenseExceptionId": "stunnel-exception",
+  "seeAlso": [
+    "https://github.com/mtrojnar/stunnel/blob/master/COPYING.md"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/stunnel-exception.txt"
+}

@@ -1,0 +1,13 @@
+{
+  "reference": "https://spdx.org/licenses/HPND-Netrek.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/HPND-Netrek.json",
+  "referenceNumber": 656,
+  "name": "Historical Permission Notice and Disclaimer - Netrek variant",
+  "licenseId": "HPND-Netrek",
+  "seeAlso": [],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Netrek.txt"
+}

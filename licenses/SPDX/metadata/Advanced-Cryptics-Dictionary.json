@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Advanced-Cryptics-Dictionary.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Advanced-Cryptics-Dictionary.json",
+  "referenceNumber": 174,
+  "name": "Advanced Cryptics Dictionary License",
+  "licenseId": "Advanced-Cryptics-Dictionary",
+  "seeAlso": [
+    "https://ftp.gnu.org/gnu/aspell/dict/en/aspell6-en-2020.12.07-0.tar.bz2"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Advanced-Cryptics-Dictionary.txt"
+}

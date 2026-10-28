@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/LGPLLR.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/LGPLLR.json",
+  "referenceNumber": 459,
+  "name": "Lesser General Public License For Linguistic Resources",
+  "licenseId": "LGPLLR",
+  "seeAlso": [
+    "http://www-igm.univ-mlv.fr/~unitex/lgpllr.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/LGPLLR.txt"
+}

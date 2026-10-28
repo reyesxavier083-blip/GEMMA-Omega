@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/mif-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/mif-exception.json",
+  "referenceNumber": 79,
+  "name": "Macros and Inline Functions Exception",
+  "licenseExceptionId": "mif-exception",
+  "seeAlso": [
+    "http://www.scs.stanford.edu/histar/src/lib/cppsup/exception",
+    "http://dev.bertos.org/doxygen/",
+    "https://www.threadingbuildingblocks.org/licensing"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/mif-exception.txt"
+}

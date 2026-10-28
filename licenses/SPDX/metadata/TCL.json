@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/TCL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/TCL.json",
+  "referenceNumber": 462,
+  "name": "TCL/TK License",
+  "licenseId": "TCL",
+  "seeAlso": [
+    "http://www.tcl.tk/software/tcltk/license.html",
+    "https://fedoraproject.org/wiki/Licensing/TCL"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TCL.txt"
+}

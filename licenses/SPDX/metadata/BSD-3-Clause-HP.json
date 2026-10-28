@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-3-Clause-HP.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-HP.json",
+  "referenceNumber": 440,
+  "name": "Hewlett-Packard BSD variant license",
+  "licenseId": "BSD-3-Clause-HP",
+  "seeAlso": [
+    "https://github.com/zdohnal/hplip/blob/master/COPYING#L939"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-HP.txt"
+}

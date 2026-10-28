@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/xzoom.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/xzoom.json",
+  "referenceNumber": 655,
+  "name": "xzoom License",
+  "licenseId": "xzoom",
+  "seeAlso": [
+    "https://metadata.ftp-master.debian.org/changelogs//main/x/xzoom/xzoom_0.3-27_copyright"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/xzoom.txt"
+}

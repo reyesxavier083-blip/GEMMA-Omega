@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CERN-OHL-S-2.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CERN-OHL-S-2.0.json",
+  "referenceNumber": 711,
+  "name": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal",
+  "licenseId": "CERN-OHL-S-2.0",
+  "seeAlso": [
+    "https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CERN-OHL-S-2.0.txt"
+}

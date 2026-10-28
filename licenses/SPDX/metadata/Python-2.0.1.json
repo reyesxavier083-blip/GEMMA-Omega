@@ -1,0 +1,18 @@
+{
+  "reference": "https://spdx.org/licenses/Python-2.0.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Python-2.0.1.json",
+  "referenceNumber": 50,
+  "name": "Python License 2.0.1",
+  "licenseId": "Python-2.0.1",
+  "seeAlso": [
+    "https://www.python.org/download/releases/2.0.1/license/",
+    "https://docs.python.org/3/license.html",
+    "https://github.com/python/cpython/blob/main/LICENSE",
+    "https://opensource.org/license/Python-2.0.1"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Python-2.0.1.txt"
+}

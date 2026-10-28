@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Bugroff.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Bugroff.json",
+  "referenceNumber": 314,
+  "name": "Bugroff License",
+  "licenseId": "Bugroff",
+  "seeAlso": [
+    "https://tunes.org/legalese/bugroff.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bugroff.txt"
+}

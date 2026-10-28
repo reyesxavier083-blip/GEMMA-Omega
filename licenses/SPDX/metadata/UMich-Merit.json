@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/UMich-Merit.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/UMich-Merit.json",
+  "referenceNumber": 3,
+  "name": "Michigan/Merit Networks License",
+  "licenseId": "UMich-Merit",
+  "seeAlso": [
+    "https://github.com/radcli/radcli/blob/master/COPYRIGHT#L64"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/UMich-Merit.txt"
+}

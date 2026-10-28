@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/OLDAP-2.8.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/OLDAP-2.8.json",
+  "referenceNumber": 683,
+  "name": "Open LDAP Public License v2.8",
+  "licenseId": "OLDAP-2.8",
+  "seeAlso": [
+    "http://www.openldap.org/software/release/license.html"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OLDAP-2.8.txt"
+}

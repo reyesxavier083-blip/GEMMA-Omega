@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/SunPro.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SunPro.json",
+  "referenceNumber": 620,
+  "name": "SunPro License",
+  "licenseId": "SunPro",
+  "seeAlso": [
+    "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_acosh.c",
+    "https://github.com/freebsd/freebsd-src/blob/main/lib/msun/src/e_lgammal.c"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SunPro.txt"
+}

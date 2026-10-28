@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/SANE-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SANE-exception.json",
+  "referenceNumber": 82,
+  "name": "SANE Exception",
+  "licenseExceptionId": "SANE-exception",
+  "seeAlso": [
+    "https://github.com/alexpevzner/sane-airscan/blob/master/LICENSE",
+    "https://gitlab.com/sane-project/backends/-/blob/master/sanei/sanei_pp.c?ref_type=heads",
+    "https://gitlab.com/sane-project/frontends/-/blob/master/sanei/sanei_codec_ascii.c?ref_type=heads"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SANE-exception.txt"
+}

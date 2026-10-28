@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/OML.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/OML.json",
+  "referenceNumber": 263,
+  "name": "Open Market License",
+  "licenseId": "OML",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Open_Market_License"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OML.txt"
+}

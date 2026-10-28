@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.html",
+  "isDeprecatedLicenseId": true,
+  "detailsUrl": "https://spdx.org/licenses/GPL-3.0-with-autoconf-exception.json",
+  "referenceNumber": 358,
+  "name": "GNU General Public License v3.0 w/Autoconf exception",
+  "licenseId": "GPL-3.0-with-autoconf-exception",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/autoconf-exception-3.0.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/GPL-3.0-with-autoconf-exception.json"
+}

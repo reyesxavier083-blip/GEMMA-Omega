@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/PostgreSQL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/PostgreSQL.json",
+  "referenceNumber": 182,
+  "name": "PostgreSQL License",
+  "licenseId": "PostgreSQL",
+  "seeAlso": [
+    "http://www.postgresql.org/about/licence",
+    "https://opensource.org/license/PostgreSQL"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/PostgreSQL.txt"
+}

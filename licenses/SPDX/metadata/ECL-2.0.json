@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/ECL-2.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/ECL-2.0.json",
+  "referenceNumber": 671,
+  "name": "Educational Community License v2.0",
+  "licenseId": "ECL-2.0",
+  "seeAlso": [
+    "https://opensource.org/license/ECL-2.0"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ECL-2.0.txt"
+}

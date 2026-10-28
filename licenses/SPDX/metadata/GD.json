@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/GD.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GD.json",
+  "referenceNumber": 215,
+  "name": "GD License",
+  "licenseId": "GD",
+  "seeAlso": [
+    "https://libgd.github.io/manuals/2.3.0/files/license-txt.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GD.txt"
+}

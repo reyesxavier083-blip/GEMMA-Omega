@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/CECILL-C.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CECILL-C.json",
+  "referenceNumber": 495,
+  "name": "CeCILL-C Free Software License Agreement",
+  "licenseId": "CECILL-C",
+  "seeAlso": [
+    "http://www.cecill.info/licences/Licence_CeCILL-C_V1-en.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CECILL-C.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/GCR-docs.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GCR-docs.json",
+  "referenceNumber": 576,
+  "name": "Gnome GCR Documentation License",
+  "licenseId": "GCR-docs",
+  "seeAlso": [
+    "https://github.com/GNOME/gcr/blob/master/docs/COPYING"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GCR-docs.txt"
+}

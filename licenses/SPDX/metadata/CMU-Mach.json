@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CMU-Mach.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CMU-Mach.json",
+  "referenceNumber": 451,
+  "name": "CMU Mach License",
+  "licenseId": "CMU-Mach",
+  "seeAlso": [
+    "https://www.cs.cmu.edu/~410/licenses.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CMU-Mach.txt"
+}

@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/FLTK-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/FLTK-exception.json",
+  "referenceNumber": 62,
+  "name": "FLTK exception",
+  "licenseExceptionId": "FLTK-exception",
+  "seeAlso": [
+    "http://www.fltk.org/COPYING.php"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/FLTK-exception.txt"
+}

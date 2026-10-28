@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/ANTLR-PD.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/ANTLR-PD.json",
+  "referenceNumber": 641,
+  "name": "ANTLR Software Rights Notice",
+  "licenseId": "ANTLR-PD",
+  "seeAlso": [
+    "http://www.antlr2.org/license.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ANTLR-PD.txt"
+}

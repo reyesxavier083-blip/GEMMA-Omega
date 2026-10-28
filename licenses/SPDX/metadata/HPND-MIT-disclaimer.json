@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/HPND-MIT-disclaimer.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/HPND-MIT-disclaimer.json",
+  "referenceNumber": 131,
+  "name": "Historical Permission Notice and Disclaimer with MIT disclaimer",
+  "licenseId": "HPND-MIT-disclaimer",
+  "seeAlso": [
+    "https://metacpan.org/release/NLNETLABS/Net-DNS-SEC-1.22/source/LICENSE"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-MIT-disclaimer.txt"
+}

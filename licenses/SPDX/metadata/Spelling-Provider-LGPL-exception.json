@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Spelling-Provider-LGPL-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Spelling-Provider-LGPL-exception.json",
+  "referenceNumber": 40,
+  "name": "Spelling Provider LGPL exception",
+  "licenseExceptionId": "Spelling-Provider-LGPL-exception",
+  "seeAlso": [
+    "https://github.com/rrthomas/enchant/blob/774ff6dc2e441ba2b9b786f8edbe00e014960408/lib/internal.vapi#L18"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Spelling-Provider-LGPL-exception.txt"
+}

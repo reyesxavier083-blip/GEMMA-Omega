@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Latex2e.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Latex2e.json",
+  "referenceNumber": 166,
+  "name": "Latex2e License",
+  "licenseId": "Latex2e",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Latex2e"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Latex2e.txt"
+}

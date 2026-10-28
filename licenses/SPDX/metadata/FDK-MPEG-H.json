@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/FDK-MPEG-H.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/FDK-MPEG-H.json",
+  "referenceNumber": 300,
+  "name": "Fraunhofer FDK MPEG-H Software",
+  "licenseId": "FDK-MPEG-H",
+  "seeAlso": [
+    "https://github.com/Fraunhofer-IIS/mpeghdec/blob/main/LICENSE.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/FDK-MPEG-H.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014.json",
+  "referenceNumber": 653,
+  "name": "BSD 3-Clause No Nuclear License 2014",
+  "licenseId": "BSD-3-Clause-No-Nuclear-License-2014",
+  "seeAlso": [
+    "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-No-Nuclear-License-2014.txt"
+}

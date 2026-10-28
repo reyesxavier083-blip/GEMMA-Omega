@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/AFL-1.2.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/AFL-1.2.json",
+  "referenceNumber": 36,
+  "name": "Academic Free License v1.2",
+  "licenseId": "AFL-1.2",
+  "seeAlso": [
+    "http://opensource.linux-mirror.org/licenses/afl-1.2.txt",
+    "http://wayback.archive.org/web/20021204204652/http://www.opensource.org/licenses/academic.php"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/AFL-1.2.txt"
+}

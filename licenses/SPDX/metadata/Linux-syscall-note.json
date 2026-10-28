@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Linux-syscall-note.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Linux-syscall-note.json",
+  "referenceNumber": 85,
+  "name": "Linux Syscall Note",
+  "licenseExceptionId": "Linux-syscall-note",
+  "seeAlso": [
+    "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/COPYING"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Linux-syscall-note.txt"
+}

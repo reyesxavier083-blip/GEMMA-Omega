@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/magaz.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/magaz.json",
+  "referenceNumber": 258,
+  "name": "magaz License",
+  "licenseId": "magaz",
+  "seeAlso": [
+    "https://mirrors.nic.cz/tex-archive/macros/latex/contrib/magaz/magaz.tex",
+    "https://mirrors.ctan.org/macros/latex/contrib/version/version.sty"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/magaz.txt"
+}

@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Bootloader-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Bootloader-exception.json",
+  "referenceNumber": 12,
+  "name": "Bootloader Distribution Exception",
+  "licenseExceptionId": "Bootloader-exception",
+  "seeAlso": [
+    "https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bootloader-exception.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/xlock.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/xlock.json",
+  "referenceNumber": 547,
+  "name": "xlock License",
+  "licenseId": "xlock",
+  "seeAlso": [
+    "https://fossies.org/linux/tiff/contrib/ras/ras2tif.c"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/xlock.txt"
+}

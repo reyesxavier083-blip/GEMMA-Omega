@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/sqlitestudio-OpenSSL-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/sqlitestudio-OpenSSL-exception.json",
+  "referenceNumber": 52,
+  "name": "sqlitestudio OpenSSL exception",
+  "licenseExceptionId": "sqlitestudio-OpenSSL-exception",
+  "seeAlso": [
+    "https://github.com/pawelsalawa/sqlitestudio/blob/master/LICENSE"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/sqlitestudio-OpenSSL-exception.txt"
+}

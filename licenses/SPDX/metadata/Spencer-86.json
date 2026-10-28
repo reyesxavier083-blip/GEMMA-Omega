@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Spencer-86.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Spencer-86.json",
+  "referenceNumber": 540,
+  "name": "Spencer License 86",
+  "licenseId": "Spencer-86",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Spencer-86.txt"
+}

@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/harbour-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/harbour-exception.json",
+  "referenceNumber": 39,
+  "name": "harbour exception",
+  "licenseExceptionId": "harbour-exception",
+  "seeAlso": [
+    "https://github.com/harbour/core/blob/master/LICENSE.txt#L44-L66"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/harbour-exception.txt"
+}

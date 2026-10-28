@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CC-BY-SA-3.0-DE.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-SA-3.0-DE.json",
+  "referenceNumber": 398,
+  "name": "Creative Commons Attribution Share Alike 3.0 Germany",
+  "licenseId": "CC-BY-SA-3.0-DE",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by-sa/3.0/de/legalcode"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-3.0-DE.txt"
+}

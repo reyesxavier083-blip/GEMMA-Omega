@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/GFDL-1.2-or-later.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GFDL-1.2-or-later.json",
+  "referenceNumber": 230,
+  "name": "GNU Free Documentation License v1.2 or later",
+  "licenseId": "GFDL-1.2-or-later",
+  "seeAlso": [
+    "https://www.gnu.org/licenses/old-licenses/fdl-1.2.txt"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GFDL-1.2-or-later.txt"
+}

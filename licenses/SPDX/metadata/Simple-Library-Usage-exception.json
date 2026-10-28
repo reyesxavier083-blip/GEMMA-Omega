@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Simple-Library-Usage-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Simple-Library-Usage-exception.json",
+  "referenceNumber": 36,
+  "name": "Simple Library Usage Exception",
+  "licenseExceptionId": "Simple-Library-Usage-exception",
+  "seeAlso": [
+    "https://sourceforge.net/p/teem/code/HEAD/tree/teem/trunk/LICENSE.txt"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Simple-Library-Usage-exception.txt"
+}

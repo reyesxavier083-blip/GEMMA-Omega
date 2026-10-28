@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Adobe-Glyph.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Adobe-Glyph.json",
+  "referenceNumber": 588,
+  "name": "Adobe Glyph List License",
+  "licenseId": "Adobe-Glyph",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/MIT#AdobeGlyph"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Adobe-Glyph.txt"
+}

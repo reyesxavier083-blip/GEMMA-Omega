@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/PDDL-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/PDDL-1.0.json",
+  "referenceNumber": 666,
+  "name": "Open Data Commons Public Domain Dedication & License 1.0",
+  "licenseId": "PDDL-1.0",
+  "seeAlso": [
+    "http://opendatacommons.org/licenses/pddl/1.0/",
+    "https://opendatacommons.org/licenses/pddl/"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/PDDL-1.0.txt"
+}

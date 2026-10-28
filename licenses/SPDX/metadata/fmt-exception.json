@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/fmt-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/fmt-exception.json",
+  "referenceNumber": 41,
+  "name": "fmt exception",
+  "licenseExceptionId": "fmt-exception",
+  "seeAlso": [
+    "https://github.com/fmtlib/fmt/blob/master/LICENSE",
+    "https://github.com/fmtlib/fmt/blob/2eb363297b24cd71a68ccfb20ff755430f17e60f/LICENSE#L22C1-L27C62"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/fmt-exception.txt"
+}

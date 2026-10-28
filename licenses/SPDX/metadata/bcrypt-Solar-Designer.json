@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/bcrypt-Solar-Designer.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/bcrypt-Solar-Designer.json",
+  "referenceNumber": 254,
+  "name": "bcrypt Solar Designer License",
+  "licenseId": "bcrypt-Solar-Designer",
+  "seeAlso": [
+    "https://github.com/bcrypt-ruby/bcrypt-ruby/blob/master/ext/mri/crypt_blowfish.c"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/bcrypt-Solar-Designer.txt"
+}

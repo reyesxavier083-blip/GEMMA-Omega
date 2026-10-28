@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Texinfo-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Texinfo-exception.json",
+  "referenceNumber": 34,
+  "name": "Texinfo exception",
+  "licenseExceptionId": "Texinfo-exception",
+  "seeAlso": [
+    "https://git.savannah.gnu.org/cgit/automake.git/tree/lib/texinfo.tex?h=v1.16.5#n23"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Texinfo-exception.txt"
+}

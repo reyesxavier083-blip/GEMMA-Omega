@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/DOC.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/DOC.json",
+  "referenceNumber": 352,
+  "name": "DOC License",
+  "licenseId": "DOC",
+  "seeAlso": [
+    "http://www.cs.wustl.edu/~schmidt/ACE-copying.html",
+    "https://www.dre.vanderbilt.edu/~schmidt/ACE-copying.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/DOC.txt"
+}

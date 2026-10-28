@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/YPL-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/YPL-1.1.json",
+  "referenceNumber": 350,
+  "name": "Yahoo! Public License v1.1",
+  "licenseId": "YPL-1.1",
+  "seeAlso": [
+    "http://www.zimbra.com/license/yahoo_public_license_1.1.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/YPL-1.1.txt"
+}

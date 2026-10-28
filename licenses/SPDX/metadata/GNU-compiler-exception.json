@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/GNU-compiler-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GNU-compiler-exception.json",
+  "referenceNumber": 51,
+  "name": "GNU Compiler Exception",
+  "licenseExceptionId": "GNU-compiler-exception",
+  "seeAlso": [
+    "https://sourceware.org/git?p=binutils-gdb.git;a=blob;f=libiberty/unlink-if-ordinary.c;h=e49f2f2f67bfdb10d6b2bd579b0e01cad0fd708e;hb=HEAD#l19",
+    "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/arch/powerpc/lib/crtsavres.S?h=v6.16-rc6#n34"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GNU-compiler-exception.txt"
+}

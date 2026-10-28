@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/NTP.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/NTP.json",
+  "referenceNumber": 709,
+  "name": "NTP License",
+  "licenseId": "NTP",
+  "seeAlso": [
+    "https://opensource.org/license/NTP"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NTP.txt"
+}

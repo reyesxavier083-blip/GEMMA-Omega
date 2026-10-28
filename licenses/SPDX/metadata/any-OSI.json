@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/any-OSI.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/any-OSI.json",
+  "referenceNumber": 561,
+  "name": "Any OSI License",
+  "licenseId": "any-OSI",
+  "seeAlso": [
+    "https://metacpan.org/pod/Exporter::Tidy#LICENSE"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/any-OSI.txt"
+}

@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/CC-BY-ND-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-ND-1.0.json",
+  "referenceNumber": 672,
+  "name": "Creative Commons Attribution No Derivatives 1.0 Generic",
+  "licenseId": "CC-BY-ND-1.0",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by-nd/1.0/legalcode"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-ND-1.0.txt"
+}

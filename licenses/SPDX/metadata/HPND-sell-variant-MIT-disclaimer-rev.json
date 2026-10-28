@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/HPND-sell-variant-MIT-disclaimer-rev.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/HPND-sell-variant-MIT-disclaimer-rev.json",
+  "referenceNumber": 550,
+  "name": "HPND sell variant with MIT disclaimer - reverse",
+  "licenseId": "HPND-sell-variant-MIT-disclaimer-rev",
+  "seeAlso": [
+    "https://github.com/sigmavirus24/x11-ssh-askpass/blob/master/dynlist.c"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-sell-variant-MIT-disclaimer-rev.txt"
+}

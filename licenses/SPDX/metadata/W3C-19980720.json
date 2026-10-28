@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/W3C-19980720.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/W3C-19980720.json",
+  "referenceNumber": 694,
+  "name": "W3C Software Notice and License (1998-07-20)",
+  "licenseId": "W3C-19980720",
+  "seeAlso": [
+    "http://www.w3.org/Consortium/Legal/copyright-software-19980720.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/W3C-19980720.txt"
+}

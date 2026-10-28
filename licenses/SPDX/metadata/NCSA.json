@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/NCSA.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/NCSA.json",
+  "referenceNumber": 325,
+  "name": "University of Illinois/NCSA Open Source License",
+  "licenseId": "NCSA",
+  "seeAlso": [
+    "http://otm.illinois.edu/uiuc_openSource",
+    "https://opensource.org/license/NCSA"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NCSA.txt"
+}

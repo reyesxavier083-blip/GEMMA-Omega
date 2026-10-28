@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/PADL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/PADL.json",
+  "referenceNumber": 701,
+  "name": "PADL License",
+  "licenseId": "PADL",
+  "seeAlso": [
+    "https://git.openldap.org/openldap/openldap/-/blob/master/libraries/libldap/os-local.c?ref_type=heads#L19-23"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/PADL.txt"
+}

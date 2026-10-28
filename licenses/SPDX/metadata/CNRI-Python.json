@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CNRI-Python.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CNRI-Python.json",
+  "referenceNumber": 273,
+  "name": "CNRI Python License",
+  "licenseId": "CNRI-Python",
+  "seeAlso": [
+    "https://opensource.org/license/CNRI-Python"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CNRI-Python.txt"
+}

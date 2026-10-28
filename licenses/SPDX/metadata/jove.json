@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/jove.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/jove.json",
+  "referenceNumber": 276,
+  "name": "Jove License",
+  "licenseId": "jove",
+  "seeAlso": [
+    "https://github.com/jonmacs/jove/blob/4_17/LICENSE"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/jove.txt"
+}

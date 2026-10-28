@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/mxml-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/mxml-exception.json",
+  "referenceNumber": 31,
+  "name": "mxml Exception",
+  "licenseExceptionId": "mxml-exception",
+  "seeAlso": [
+    "https://github.com/michaelrsweet/mxml/blob/master/NOTICE",
+    "https://github.com/michaelrsweet/mxml/blob/master/LICENSE"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/mxml-exception.txt"
+}

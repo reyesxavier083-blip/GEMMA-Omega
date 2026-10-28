@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/OSL-3.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/OSL-3.0.json",
+  "referenceNumber": 4,
+  "name": "Open Software License 3.0",
+  "licenseId": "OSL-3.0",
+  "seeAlso": [
+    "https://web.archive.org/web/20120101081418/http://rosenlaw.com:80/OSL3.0.htm",
+    "https://opensource.org/license/OSL-3.0"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OSL-3.0.txt"
+}

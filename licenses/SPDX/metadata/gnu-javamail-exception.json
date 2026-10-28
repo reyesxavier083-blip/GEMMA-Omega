@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/gnu-javamail-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/gnu-javamail-exception.json",
+  "referenceNumber": 38,
+  "name": "GNU JavaMail exception",
+  "licenseExceptionId": "gnu-javamail-exception",
+  "seeAlso": [
+    "http://www.gnu.org/software/classpathx/javamail/javamail.html"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/gnu-javamail-exception.txt"
+}

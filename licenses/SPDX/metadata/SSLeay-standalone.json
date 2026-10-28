@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/SSLeay-standalone.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SSLeay-standalone.json",
+  "referenceNumber": 600,
+  "name": "SSLeay License - standalone",
+  "licenseId": "SSLeay-standalone",
+  "seeAlso": [
+    "https://www.tq-group.com/filedownloads/files/software-license-conditions/OriginalSSLeay/OriginalSSLeay.pdf"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SSLeay-standalone.txt"
+}

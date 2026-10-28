@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/BitTorrent-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BitTorrent-1.1.json",
+  "referenceNumber": 192,
+  "name": "BitTorrent Open Source License v1.1",
+  "licenseId": "BitTorrent-1.1",
+  "seeAlso": [
+    "http://directory.fsf.org/wiki/License:BitTorrentOSL1.1"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BitTorrent-1.1.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/MIPS.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/MIPS.json",
+  "referenceNumber": 615,
+  "name": "MIPS License",
+  "licenseId": "MIPS",
+  "seeAlso": [
+    "https://sourceware.org/cgit/binutils-gdb/tree/include/coff/sym.h#n11"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIPS.txt"
+}

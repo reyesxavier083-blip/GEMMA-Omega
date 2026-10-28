@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/KiCad-libraries-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/KiCad-libraries-exception.json",
+  "referenceNumber": 63,
+  "name": "KiCad Libraries Exception",
+  "licenseExceptionId": "KiCad-libraries-exception",
+  "seeAlso": [
+    "https://www.kicad.org/libraries/license/"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/KiCad-libraries-exception.txt"
+}

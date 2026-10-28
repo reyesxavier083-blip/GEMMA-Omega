@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Vim.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Vim.json",
+  "referenceNumber": 468,
+  "name": "Vim License",
+  "licenseId": "Vim",
+  "seeAlso": [
+    "http://vimdoc.sourceforge.net/htmldoc/uganda.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Vim.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Gutmann.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Gutmann.json",
+  "referenceNumber": 518,
+  "name": "Gutmann License",
+  "licenseId": "Gutmann",
+  "seeAlso": [
+    "https://www.cs.auckland.ac.nz/~pgut001/dumpasn1.c"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Gutmann.txt"
+}

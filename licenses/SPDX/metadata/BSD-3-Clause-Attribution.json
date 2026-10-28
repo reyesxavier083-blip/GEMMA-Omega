@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-3-Clause-Attribution.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-3-Clause-Attribution.json",
+  "referenceNumber": 168,
+  "name": "BSD with attribution",
+  "licenseId": "BSD-3-Clause-Attribution",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/BSD_with_Attribution"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-3-Clause-Attribution.txt"
+}

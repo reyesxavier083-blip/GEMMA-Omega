@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/SHL-0.5.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SHL-0.5.json",
+  "referenceNumber": 129,
+  "name": "Solderpad Hardware License v0.5",
+  "licenseId": "SHL-0.5",
+  "seeAlso": [
+    "https://solderpad.org/licenses/SHL-0.5/"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SHL-0.5.txt"
+}

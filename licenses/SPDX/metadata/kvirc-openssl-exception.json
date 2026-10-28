@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/kvirc-openssl-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/kvirc-openssl-exception.json",
+  "referenceNumber": 83,
+  "name": "kvirc OpenSSL Exception",
+  "licenseExceptionId": "kvirc-openssl-exception",
+  "seeAlso": [
+    "https://github.com/kvirc/KVIrc/blob/ba18690abb4f5ce77bb10164ee0835cc150f4a2a/doc/ABOUT-LICENSE#L34"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/kvirc-openssl-exception.txt"
+}

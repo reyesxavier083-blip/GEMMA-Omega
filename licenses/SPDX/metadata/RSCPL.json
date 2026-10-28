@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/RSCPL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/RSCPL.json",
+  "referenceNumber": 367,
+  "name": "Ricoh Source Code Public License",
+  "licenseId": "RSCPL",
+  "seeAlso": [
+    "http://wayback.archive.org/web/20060715140826/http://www.risource.org/RPL/RPL-1.0A.shtml",
+    "https://opensource.org/license/RSCPL"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/RSCPL.txt"
+}

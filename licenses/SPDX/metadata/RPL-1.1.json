@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/RPL-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/RPL-1.1.json",
+  "referenceNumber": 537,
+  "name": "Reciprocal Public License 1.1",
+  "licenseId": "RPL-1.1",
+  "seeAlso": [
+    "https://opensource.org/license/RPL-1.1"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/RPL-1.1.txt"
+}

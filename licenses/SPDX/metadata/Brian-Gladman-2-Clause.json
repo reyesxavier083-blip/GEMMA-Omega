@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Brian-Gladman-2-Clause.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Brian-Gladman-2-Clause.json",
+  "referenceNumber": 692,
+  "name": "Brian Gladman 2-Clause License",
+  "licenseId": "Brian-Gladman-2-Clause",
+  "seeAlso": [
+    "https://github.com/krb5/krb5/blob/krb5-1.21.2-final/NOTICE#L140-L156",
+    "https://web.mit.edu/kerberos/krb5-1.21/doc/mitK5license.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Brian-Gladman-2-Clause.txt"
+}

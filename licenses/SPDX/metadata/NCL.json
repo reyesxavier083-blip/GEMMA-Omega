@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/NCL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/NCL.json",
+  "referenceNumber": 616,
+  "name": "NCL Source Code License",
+  "licenseId": "NCL",
+  "seeAlso": [
+    "https://gitlab.freedesktop.org/pipewire/pipewire/-/blob/master/src/modules/module-filter-chain/pffft.c?ref_type=heads#L1-52"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NCL.txt"
+}

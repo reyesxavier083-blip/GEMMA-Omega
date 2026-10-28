@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Nokia.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Nokia.json",
+  "referenceNumber": 514,
+  "name": "Nokia Open Source License",
+  "licenseId": "Nokia",
+  "seeAlso": [
+    "https://opensource.org/license/Nokia"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Nokia.txt"
+}

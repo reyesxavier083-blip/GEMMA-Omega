@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-2-Clause-Views.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-2-Clause-Views.json",
+  "referenceNumber": 142,
+  "name": "BSD 2-Clause with views sentence",
+  "licenseId": "BSD-2-Clause-Views",
+  "seeAlso": [
+    "http://www.freebsd.org/copyright/freebsd-license.html",
+    "https://people.freebsd.org/~ivoras/wine/patch-wine-nvidia.sh",
+    "https://github.com/protegeproject/protege/blob/master/license.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-2-Clause-Views.txt"
+}

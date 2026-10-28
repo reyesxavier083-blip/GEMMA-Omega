@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/softSurfer.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/softSurfer.json",
+  "referenceNumber": 473,
+  "name": "softSurfer License",
+  "licenseId": "softSurfer",
+  "seeAlso": [
+    "https://github.com/mm2/Little-CMS/blob/master/src/cmssm.c#L207",
+    "https://fedoraproject.org/wiki/Licensing/softSurfer"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/softSurfer.txt"
+}

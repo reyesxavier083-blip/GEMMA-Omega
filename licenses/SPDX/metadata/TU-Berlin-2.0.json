@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/TU-Berlin-2.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/TU-Berlin-2.0.json",
+  "referenceNumber": 373,
+  "name": "Technische Universitaet Berlin License 2.0",
+  "licenseId": "TU-Berlin-2.0",
+  "seeAlso": [
+    "https://github.com/CorsixTH/deps/blob/fd339a9f526d1d9c9f01ccf39e438a015da50035/licences/libgsm.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TU-Berlin-2.0.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Hippocratic-3.0-core.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Hippocratic-3.0-core.json",
+  "referenceNumber": 145,
+  "name": "Hippocratic License 3.0",
+  "licenseId": "Hippocratic-3.0-core",
+  "seeAlso": [
+    "https://firstdonoharm.dev/version/3/0/core.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Hippocratic-3.0-core.txt"
+}

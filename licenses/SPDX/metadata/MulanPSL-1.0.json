@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/MulanPSL-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/MulanPSL-1.0.json",
+  "referenceNumber": 592,
+  "name": "Mulan Permissive Software License, Version 1",
+  "licenseId": "MulanPSL-1.0",
+  "seeAlso": [
+    "https://license.coscl.org.cn/MulanPSL/",
+    "https://github.com/yuwenlong/longphp/blob/25dfb70cc2a466dc4bb55ba30901cbce08d164b5/LICENSE"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MulanPSL-1.0.txt"
+}

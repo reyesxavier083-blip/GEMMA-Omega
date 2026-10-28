@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/ODC-By-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/ODC-By-1.0.json",
+  "referenceNumber": 346,
+  "name": "Open Data Commons Attribution License v1.0",
+  "licenseId": "ODC-By-1.0",
+  "seeAlso": [
+    "https://opendatacommons.org/licenses/by/1.0/"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ODC-By-1.0.txt"
+}

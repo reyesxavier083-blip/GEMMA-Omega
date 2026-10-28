@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/FSFAP.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/FSFAP.json",
+  "referenceNumber": 416,
+  "name": "FSF All Permissive License",
+  "licenseId": "FSFAP",
+  "seeAlso": [
+    "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/FSFAP.txt"
+}

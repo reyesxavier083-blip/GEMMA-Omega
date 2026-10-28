@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/X11.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/X11.json",
+  "referenceNumber": 413,
+  "name": "X11 License",
+  "licenseId": "X11",
+  "seeAlso": [
+    "http://www.xfree86.org/3.3.6/COPYRIGHT2.html#3"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/X11.txt"
+}

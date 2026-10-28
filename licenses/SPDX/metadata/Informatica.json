@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Informatica.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Informatica.json",
+  "referenceNumber": 24,
+  "name": "Informatica License",
+  "licenseId": "Informatica",
+  "seeAlso": [
+    "https://raw.githubusercontent.com/landtuna/open-mtools/6c04c2882eca7c4313ec267766ea53ac9bfe129b/msend.c",
+    "https://raw.githubusercontent.com/landtuna/open-mtools/6c04c2882eca7c4313ec267766ea53ac9bfe129b/mdump.c"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Informatica.txt"
+}

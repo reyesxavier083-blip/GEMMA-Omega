@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/NPL-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/NPL-1.0.json",
+  "referenceNumber": 133,
+  "name": "Netscape Public License v1.0",
+  "licenseId": "NPL-1.0",
+  "seeAlso": [
+    "http://www.mozilla.org/MPL/NPL/1.0/"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NPL-1.0.txt"
+}

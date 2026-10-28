@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BSD-Source-alt-GPL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BSD-Source-alt-GPL.json",
+  "referenceNumber": 31,
+  "name": "BSD Source Code Attribution - GPL alternative",
+  "licenseId": "BSD-Source-alt-GPL",
+  "seeAlso": [
+    "https://cgit.freebsd.org/src/plain/sys/dev/aic7xxx/aic7xxx_osm.c"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BSD-Source-alt-GPL.txt"
+}

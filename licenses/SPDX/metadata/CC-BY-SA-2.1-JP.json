@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CC-BY-SA-2.1-JP.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-SA-2.1-JP.json",
+  "referenceNumber": 725,
+  "name": "Creative Commons Attribution Share Alike 2.1 Japan",
+  "licenseId": "CC-BY-SA-2.1-JP",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by-sa/2.1/jp/legalcode"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-SA-2.1-JP.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/RSA-MD.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/RSA-MD.json",
+  "referenceNumber": 599,
+  "name": "RSA Message-Digest License",
+  "licenseId": "RSA-MD",
+  "seeAlso": [
+    "http://www.faqs.org/rfcs/rfc1321.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/RSA-MD.txt"
+}

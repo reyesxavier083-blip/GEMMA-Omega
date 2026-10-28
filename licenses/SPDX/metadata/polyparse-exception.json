@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/polyparse-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/polyparse-exception.json",
+  "referenceNumber": 47,
+  "name": "Polyparse Exception",
+  "licenseExceptionId": "polyparse-exception",
+  "seeAlso": [
+    "https://hackage.haskell.org/package/polyparse-1.13/src/COPYRIGHT"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/polyparse-exception.txt"
+}

@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/Apache-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Apache-1.1.json",
+  "referenceNumber": 220,
+  "name": "Apache License 1.1",
+  "licenseId": "Apache-1.1",
+  "seeAlso": [
+    "http://apache.org/licenses/LICENSE-1.1",
+    "https://opensource.org/license/apache-1.1"
+  ],
+  "isOsiApproved": true,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Apache-1.1.txt"
+}

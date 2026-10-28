@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/COIL-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/COIL-1.0.json",
+  "referenceNumber": 37,
+  "name": "Copyfree Open Innovation License",
+  "licenseId": "COIL-1.0",
+  "seeAlso": [
+    "https://coil.apotheon.org/plaintext/01.0.txt"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/COIL-1.0.txt"
+}

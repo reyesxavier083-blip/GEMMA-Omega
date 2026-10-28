@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Aspell-RU.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Aspell-RU.json",
+  "referenceNumber": 268,
+  "name": "Aspell Russian License",
+  "licenseId": "Aspell-RU",
+  "seeAlso": [
+    "https://ftp.gnu.org/gnu/aspell/dict/ru/aspell6-ru-0.99f7-1.tar.bz2"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Aspell-RU.txt"
+}

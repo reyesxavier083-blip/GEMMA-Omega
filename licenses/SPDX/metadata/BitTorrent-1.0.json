@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/BitTorrent-1.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/BitTorrent-1.0.json",
+  "referenceNumber": 651,
+  "name": "BitTorrent Open Source License v1.0",
+  "licenseId": "BitTorrent-1.0",
+  "seeAlso": [
+    "http://sources.gentoo.org/cgi-bin/viewvc.cgi/gentoo-x86/licenses/BitTorrent?r1=1.1&r2=1.1.1.1&diff_format=s"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/BitTorrent-1.0.txt"
+}

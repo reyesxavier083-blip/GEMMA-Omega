@@ -1,0 +1,17 @@
+{
+  "reference": "https://spdx.org/licenses/Cornell-Lossless-JPEG.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Cornell-Lossless-JPEG.json",
+  "referenceNumber": 211,
+  "name": "Cornell Lossless JPEG License",
+  "licenseId": "Cornell-Lossless-JPEG",
+  "seeAlso": [
+    "https://android.googlesource.com/platform/external/dng_sdk/+/refs/heads/master/source/dng_lossless_jpeg.cpp#16",
+    "https://www.mssl.ucl.ac.uk/~mcrw/src/20050920/proto.h",
+    "https://gitlab.freedesktop.org/libopenraw/libopenraw/blob/master/lib/ljpegdecompressor.cpp#L32"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Cornell-Lossless-JPEG.txt"
+}

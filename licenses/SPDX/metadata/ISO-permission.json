@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/ISO-permission.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/ISO-permission.json",
+  "referenceNumber": 244,
+  "name": "ISO permission notice",
+  "licenseId": "ISO-permission",
+  "seeAlso": [
+    "https://gitlab.com/agmartin/linuxdoc-tools/-/blob/master/iso-entities/COPYING?ref_type=heads",
+    "https://www.itu.int/ITU-T/formal-language/itu-t/t/t173/1997/ISOMHEG-sir.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ISO-permission.txt"
+}

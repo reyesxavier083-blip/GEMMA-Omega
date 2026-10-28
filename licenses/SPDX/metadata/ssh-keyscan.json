@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/ssh-keyscan.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/ssh-keyscan.json",
+  "referenceNumber": 23,
+  "name": "ssh-keyscan License",
+  "licenseId": "ssh-keyscan",
+  "seeAlso": [
+    "https://github.com/openssh/openssh-portable/blob/master/LICENCE#L82"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/ssh-keyscan.txt"
+}

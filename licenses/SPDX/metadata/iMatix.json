@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/iMatix.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/iMatix.json",
+  "referenceNumber": 434,
+  "name": "iMatix Standard Function Library Agreement",
+  "licenseId": "iMatix",
+  "seeAlso": [
+    "http://legacy.imatix.com/html/sfl/sfl4.htm#license"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/iMatix.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/NPOSL-3.0.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/NPOSL-3.0.json",
+  "referenceNumber": 221,
+  "name": "Non-Profit Open Software License 3.0",
+  "licenseId": "NPOSL-3.0",
+  "seeAlso": [
+    "https://opensource.org/license/NPOSL-3.0"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NPOSL-3.0.txt"
+}

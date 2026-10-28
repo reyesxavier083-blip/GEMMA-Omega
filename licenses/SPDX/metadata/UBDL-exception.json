@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/UBDL-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/UBDL-exception.json",
+  "referenceNumber": 57,
+  "name": "Unmodified Binary Distribution exception",
+  "licenseExceptionId": "UBDL-exception",
+  "seeAlso": [
+    "https://github.com/ipxe/ipxe/blob/master/COPYING.UBDL"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/UBDL-exception.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/python-ldap.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/python-ldap.json",
+  "referenceNumber": 193,
+  "name": "Python ldap License",
+  "licenseId": "python-ldap",
+  "seeAlso": [
+    "https://github.com/python-ldap/python-ldap/blob/main/LICENCE"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/python-ldap.txt"
+}

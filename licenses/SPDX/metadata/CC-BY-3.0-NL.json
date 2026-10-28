@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CC-BY-3.0-NL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-3.0-NL.json",
+  "referenceNumber": 533,
+  "name": "Creative Commons Attribution 3.0 Netherlands",
+  "licenseId": "CC-BY-3.0-NL",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by/3.0/nl/legalcode"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-3.0-NL.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/HPND-Intel.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/HPND-Intel.json",
+  "referenceNumber": 67,
+  "name": "Historical Permission Notice and Disclaimer - Intel variant",
+  "licenseId": "HPND-Intel",
+  "seeAlso": [
+    "https://sourceware.org/git/?p=newlib-cygwin.git;a=blob;f=newlib/libc/machine/i960/memcpy.S;hb=HEAD"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-Intel.txt"
+}

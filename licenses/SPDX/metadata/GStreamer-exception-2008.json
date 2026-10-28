@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/GStreamer-exception-2008.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GStreamer-exception-2008.json",
+  "referenceNumber": 59,
+  "name": "GStreamer Exception (2008)",
+  "licenseExceptionId": "GStreamer-exception-2008",
+  "seeAlso": [
+    "https://gstreamer.freedesktop.org/documentation/frequently-asked-questions/licensing.html?gi-language=c#licensing-of-applications-using-gstreamer"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GStreamer-exception-2008.txt"
+}

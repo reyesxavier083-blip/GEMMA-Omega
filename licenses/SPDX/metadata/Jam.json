@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Jam.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Jam.json",
+  "referenceNumber": 14,
+  "name": "Jam License",
+  "licenseId": "Jam",
+  "seeAlso": [
+    "https://www.boost.org/doc/libs/1_35_0/doc/html/jam.html",
+    "https://web.archive.org/web/20160330173339/https://swarm.workshop.perforce.com/files/guest/perforce_software/jam/src/README"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Jam.txt"
+}

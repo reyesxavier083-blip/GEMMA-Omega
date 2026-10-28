@@ -1,0 +1,8 @@
+THIRD-PARTY NOTICES
+====================
+
+Project: <PROJECT NAME>
+Version: <VERSION>
+
+For every distributed dependency, record package/version, verified license ID, copyright notice, required NOTICE text, source URL, modifications, and any separate model/native-binary terms.
+Do not ship this template with placeholders unfilled.

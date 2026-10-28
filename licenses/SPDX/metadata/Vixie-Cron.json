@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Vixie-Cron.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Vixie-Cron.json",
+  "referenceNumber": 32,
+  "name": "Vixie Cron License",
+  "licenseId": "Vixie-Cron",
+  "seeAlso": [
+    "https://github.com/vixie/cron/tree/545b3f5246824a9cda5905eeb7cf019c95e66995"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Vixie-Cron.txt"
+}

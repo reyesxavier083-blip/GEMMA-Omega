@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/DigiRule-FOSS-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/DigiRule-FOSS-exception.json",
+  "referenceNumber": 14,
+  "name": "DigiRule FOSS License Exception",
+  "licenseExceptionId": "DigiRule-FOSS-exception",
+  "seeAlso": [
+    "http://www.digirulesolutions.com/drupal/foss"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/DigiRule-FOSS-exception.txt"
+}

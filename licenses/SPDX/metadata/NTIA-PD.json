@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/NTIA-PD.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/NTIA-PD.json",
+  "referenceNumber": 75,
+  "name": "NTIA Public Domain Notice",
+  "licenseId": "NTIA-PD",
+  "seeAlso": [
+    "https://raw.githubusercontent.com/NTIA/itm/refs/heads/master/LICENSE.md",
+    "https://raw.githubusercontent.com/NTIA/scos-sensor/refs/heads/master/LICENSE.md"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NTIA-PD.txt"
+}

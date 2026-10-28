@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Zimbra-1.4.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Zimbra-1.4.json",
+  "referenceNumber": 187,
+  "name": "Zimbra Public License v1.4",
+  "licenseId": "Zimbra-1.4",
+  "seeAlso": [
+    "http://www.zimbra.com/legal/zimbra-public-license-1-4"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Zimbra-1.4.txt"
+}

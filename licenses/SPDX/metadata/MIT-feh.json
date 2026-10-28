@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/MIT-feh.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/MIT-feh.json",
+  "referenceNumber": 195,
+  "name": "feh License",
+  "licenseId": "MIT-feh",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/MIT#feh"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MIT-feh.txt"
+}

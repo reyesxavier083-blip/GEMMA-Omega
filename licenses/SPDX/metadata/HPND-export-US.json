@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/HPND-export-US.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/HPND-export-US.json",
+  "referenceNumber": 342,
+  "name": "HPND with US Government export control warning",
+  "licenseId": "HPND-export-US",
+  "seeAlso": [
+    "https://www.kermitproject.org/ck90.html#source"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-export-US.txt"
+}

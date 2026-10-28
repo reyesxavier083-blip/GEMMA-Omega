@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CC-PDDC.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CC-PDDC.json",
+  "referenceNumber": 564,
+  "name": "Creative Commons Public Domain Dedication and Certification",
+  "licenseId": "CC-PDDC",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/publicdomain/"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-PDDC.txt"
+}

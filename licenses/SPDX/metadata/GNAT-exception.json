@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/GNAT-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GNAT-exception.json",
+  "referenceNumber": 44,
+  "name": "GNAT exception",
+  "licenseExceptionId": "GNAT-exception",
+  "seeAlso": [
+    "https://github.com/AdaCore/florist/blob/master/libsrc/posix-configurable_file_limits.adb"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GNAT-exception.txt"
+}

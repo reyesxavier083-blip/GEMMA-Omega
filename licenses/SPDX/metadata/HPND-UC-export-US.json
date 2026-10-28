@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/HPND-UC-export-US.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/HPND-UC-export-US.json",
+  "referenceNumber": 374,
+  "name": "Historical Permission Notice and Disclaimer - University of California, US export warning",
+  "licenseId": "HPND-UC-export-US",
+  "seeAlso": [
+    "https://github.com/RTimothyEdwards/magic/blob/master/LICENSE"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/HPND-UC-export-US.txt"
+}

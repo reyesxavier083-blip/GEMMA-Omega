@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CATOSL-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CATOSL-1.1.json",
+  "referenceNumber": 486,
+  "name": "Computer Associates Trusted Open Source License 1.1",
+  "licenseId": "CATOSL-1.1",
+  "seeAlso": [
+    "https://opensource.org/license/CATOSL-1.1"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CATOSL-1.1.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/TermReadKey.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/TermReadKey.json",
+  "referenceNumber": 633,
+  "name": "TermReadKey License",
+  "licenseId": "TermReadKey",
+  "seeAlso": [
+    "https://github.com/jonathanstowe/TermReadKey/blob/master/README#L9-L10"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/TermReadKey.txt"
+}

@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Asterisk-linking-protocols-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Asterisk-linking-protocols-exception.json",
+  "referenceNumber": 58,
+  "name": "Asterisk linking protocols exception",
+  "licenseExceptionId": "Asterisk-linking-protocols-exception",
+  "seeAlso": [
+    "https://github.com/asterisk/asterisk/blob/115d7c01e32ccf4566a99e9d74e2b88830985a0b/LICENSE#L27"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Asterisk-linking-protocols-exception.txt"
+}

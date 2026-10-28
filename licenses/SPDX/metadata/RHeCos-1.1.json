@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/RHeCos-1.1.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/RHeCos-1.1.json",
+  "referenceNumber": 135,
+  "name": "Red Hat eCos Public License v1.1",
+  "licenseId": "RHeCos-1.1",
+  "seeAlso": [
+    "http://ecos.sourceware.org/old-license.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/RHeCos-1.1.txt"
+}

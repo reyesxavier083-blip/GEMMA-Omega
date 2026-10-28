@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Noweb.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Noweb.json",
+  "referenceNumber": 93,
+  "name": "Noweb License",
+  "licenseId": "Noweb",
+  "seeAlso": [
+    "https://fedoraproject.org/wiki/Licensing/Noweb"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Noweb.txt"
+}

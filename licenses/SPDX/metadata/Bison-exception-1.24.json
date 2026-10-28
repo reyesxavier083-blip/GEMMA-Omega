@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Bison-exception-1.24.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Bison-exception-1.24.json",
+  "referenceNumber": 11,
+  "name": "Bison exception 1.24",
+  "licenseExceptionId": "Bison-exception-1.24",
+  "seeAlso": [
+    "https://github.com/arineng/rwhoisd/blob/master/rwhoisd/mkdb/y.tab.c#L180"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Bison-exception-1.24.txt"
+}

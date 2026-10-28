@@ -1,0 +1,18 @@
+{
+  "reference": "https://spdx.org/licenses/IJG.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/IJG.json",
+  "referenceNumber": 504,
+  "name": "Independent JPEG Group License",
+  "licenseId": "IJG",
+  "seeAlso": [
+    "http://dev.w3.org/cvsweb/Amaya/libjpeg/Attic/README?rev=1.2",
+    "https://github.com/vstroebel/jpeg-encoder/blob/main/src/fdct.rs#L1-L72",
+    "https://github.com/libjpeg-turbo/libjpeg-turbo/blob/main/README.ijg#L117-L161"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/IJG.txt"
+}

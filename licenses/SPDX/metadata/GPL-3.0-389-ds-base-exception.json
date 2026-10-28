@@ -1,0 +1,12 @@
+{
+  "reference": "https://spdx.org/licenses/GPL-3.0-389-ds-base-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/GPL-3.0-389-ds-base-exception.json",
+  "referenceNumber": 64,
+  "name": "GPL-3.0 389 DS Base Exception",
+  "licenseExceptionId": "GPL-3.0-389-ds-base-exception",
+  "seeAlso": [],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/GPL-3.0-389-ds-base-exception.txt"
+}

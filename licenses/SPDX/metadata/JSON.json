@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/JSON.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/JSON.json",
+  "referenceNumber": 143,
+  "name": "JSON License",
+  "licenseId": "JSON",
+  "seeAlso": [
+    "http://www.json.org/license.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/JSON.txt"
+}

@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/Fair.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Fair.json",
+  "referenceNumber": 496,
+  "name": "Fair License",
+  "licenseId": "Fair",
+  "seeAlso": [
+    "https://web.archive.org/web/20150926120323/http://fairlicense.org/",
+    "https://opensource.org/license/Fair"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Fair.txt"
+}

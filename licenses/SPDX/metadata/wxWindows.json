@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/wxWindows.html",
+  "isDeprecatedLicenseId": true,
+  "detailsUrl": "https://spdx.org/licenses/wxWindows.json",
+  "referenceNumber": 307,
+  "name": "wxWindows Library License",
+  "licenseId": "wxWindows",
+  "seeAlso": [
+    "https://opensource.org/license/wxWindows"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/json/details/wxWindows.json"
+}

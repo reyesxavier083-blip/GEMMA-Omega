@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/metamail.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/metamail.json",
+  "referenceNumber": 97,
+  "name": "metamail License",
+  "licenseId": "metamail",
+  "seeAlso": [
+    "https://github.com/Dual-Life/mime-base64/blob/master/Base64.xs#L12"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/metamail.txt"
+}

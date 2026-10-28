@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/NRL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/NRL.json",
+  "referenceNumber": 679,
+  "name": "NRL License",
+  "licenseId": "NRL",
+  "seeAlso": [
+    "http://web.mit.edu/network/isakmp/nrllicense.html"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/NRL.txt"
+}

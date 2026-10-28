@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/rsync-linking-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/rsync-linking-exception.json",
+  "referenceNumber": 81,
+  "name": "rsync Linking Exception",
+  "licenseExceptionId": "rsync-linking-exception",
+  "seeAlso": [
+    "https://github.com/RsyncProject/rsync/blob/master/COPYING"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/rsync-linking-exception.txt"
+}

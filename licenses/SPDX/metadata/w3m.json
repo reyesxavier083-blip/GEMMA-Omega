@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/w3m.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/w3m.json",
+  "referenceNumber": 552,
+  "name": "w3m License",
+  "licenseId": "w3m",
+  "seeAlso": [
+    "https://github.com/tats/w3m/blob/master/COPYING"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/w3m.txt"
+}

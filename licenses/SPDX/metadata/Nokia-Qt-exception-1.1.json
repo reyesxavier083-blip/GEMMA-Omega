@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/Nokia-Qt-exception-1.1.html",
+  "isDeprecatedLicenseId": true,
+  "detailsUrl": "https://spdx.org/licenses/Nokia-Qt-exception-1.1.json",
+  "referenceNumber": 2,
+  "name": "Nokia Qt LGPL exception 1.1",
+  "licenseExceptionId": "Nokia-Qt-exception-1.1",
+  "seeAlso": [
+    "https://www.keepassx.org/dev/projects/keepassx/repository/revisions/b8dfb9cc4d5133e0f09cd7533d15a4f1c19a40f2/entry/LICENSE.NOKIA-LGPL-EXCEPTION"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Nokia-Qt-exception-1.1.txt"
+}

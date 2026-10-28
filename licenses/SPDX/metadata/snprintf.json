@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/snprintf.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/snprintf.json",
+  "referenceNumber": 721,
+  "name": "snprintf License",
+  "licenseId": "snprintf",
+  "seeAlso": [
+    "https://github.com/openssh/openssh-portable/blob/master/openbsd-compat/bsd-snprintf.c#L2"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/snprintf.txt"
+}

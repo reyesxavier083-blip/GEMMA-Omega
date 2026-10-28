@@ -1,0 +1,16 @@
+{
+  "reference": "https://spdx.org/licenses/OpenSSL.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/OpenSSL.json",
+  "referenceNumber": 483,
+  "name": "OpenSSL License",
+  "licenseId": "OpenSSL",
+  "seeAlso": [
+    "http://www.openssl.org/source/license.html"
+  ],
+  "isOsiApproved": false,
+  "isFsfLibre": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/OpenSSL.txt"
+}

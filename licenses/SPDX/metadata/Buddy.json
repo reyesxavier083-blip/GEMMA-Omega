@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Buddy.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Buddy.json",
+  "referenceNumber": 286,
+  "name": "Buddy License",
+  "licenseId": "Buddy",
+  "seeAlso": [
+    "https://sourceforge.net/p/buddy/gitcode/ci/master/tree/README"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Buddy.txt"
+}

@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/CC-BY-NC-3.0-IGO.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/CC-BY-NC-3.0-IGO.json",
+  "referenceNumber": 308,
+  "name": "Creative Commons Attribution Non Commercial 3.0 IGO",
+  "licenseId": "CC-BY-NC-3.0-IGO",
+  "seeAlso": [
+    "https://creativecommons.org/licenses/by-nc/3.0/igo/legalcode"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/CC-BY-NC-3.0-IGO.txt"
+}

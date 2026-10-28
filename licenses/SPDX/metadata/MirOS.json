@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/MirOS.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/MirOS.json",
+  "referenceNumber": 664,
+  "name": "The MirOS Licence",
+  "licenseId": "MirOS",
+  "seeAlso": [
+    "https://opensource.org/license/MirOS"
+  ],
+  "isOsiApproved": true,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/MirOS.txt"
+}

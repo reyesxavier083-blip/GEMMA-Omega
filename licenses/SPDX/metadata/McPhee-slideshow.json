@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/McPhee-slideshow.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/McPhee-slideshow.json",
+  "referenceNumber": 0,
+  "name": "McPhee Slideshow License",
+  "licenseId": "McPhee-slideshow",
+  "seeAlso": [
+    "https://mirror.las.iastate.edu/tex-archive/graphics/metapost/contrib/macros/slideshow/slideshow.mp"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/McPhee-slideshow.txt"
+}

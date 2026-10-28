@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/Lucida-Bitmap-Fonts.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/Lucida-Bitmap-Fonts.json",
+  "referenceNumber": 66,
+  "name": "Lucida Bitmap Fonts License",
+  "licenseId": "Lucida-Bitmap-Fonts",
+  "seeAlso": [
+    "https://gitlab.freedesktop.org/xorg/font/bh-100dpi/-/blob/master/COPYING?ref_type=heads"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/Lucida-Bitmap-Fonts.txt"
+}

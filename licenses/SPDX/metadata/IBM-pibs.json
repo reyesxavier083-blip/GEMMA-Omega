@@ -1,0 +1,15 @@
+{
+  "reference": "https://spdx.org/licenses/IBM-pibs.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/IBM-pibs.json",
+  "referenceNumber": 303,
+  "name": "IBM PowerPC Initialization and Boot Software",
+  "licenseId": "IBM-pibs",
+  "seeAlso": [
+    "http://git.denx.de/?p=u-boot.git;a=blob;f=arch/powerpc/cpu/ppc4xx/miiphy.c;h=297155fdafa064b955e53e9832de93bfb0cfb85b;hb=9fab4bf4cc077c21e43941866f3f2c196f28670d"
+  ],
+  "isOsiApproved": false,
+  "spdx_kind": "license",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/IBM-pibs.txt"
+}

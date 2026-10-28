@@ -1,0 +1,14 @@
+{
+  "reference": "https://spdx.org/licenses/SWI-exception.html",
+  "isDeprecatedLicenseId": false,
+  "detailsUrl": "https://spdx.org/licenses/SWI-exception.json",
+  "referenceNumber": 49,
+  "name": "SWI exception",
+  "licenseExceptionId": "SWI-exception",
+  "seeAlso": [
+    "https://github.com/SWI-Prolog/packages-clpqr/blob/bfa80b9270274f0800120d5b8e6fef42ac2dc6a5/clpqr/class.pl"
+  ],
+  "spdx_kind": "exception",
+  "text_status": "downloaded",
+  "text_source": "https://raw.githubusercontent.com/spdx/license-list-data/main/text/SWI-exception.txt"
+}
